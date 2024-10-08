@@ -1,0 +1,501 @@
+id,age,alcohol_freq,caloric_freq,devices_perday,eat_between_meals,gender,height,marrital_status,meals_perday,monitor_calories,parent_overweight,physical_activity_perweek,region,siblings,smoke,transportation,veggies_freq,water_daily,weight
+1612,21.0,Sometimes,no,up to 2,Sometimes,Female,1.52,,3.0,yes,yes,5 or more,LatAm,3.0,yes,Public,Always,more than 2,56.0
+1613,29.0,Sometimes,yes,up to 2,Sometimes,Male,1.62,,3.0,no,no,None,LatAm,3.0,no,Car,Sometimes,1 to 2,53.0
+1614,23.0,Sometimes,,up to 2,Sometimes,Female,1.5,,3.0,no,yes,1 to 2,LatAm,2.0,no,Motorbike,Always,1 to 2,
+1615,22.0,Never,yes,up to 5,Sometimes,Male,1.72,,3.0,no,yes,1 to 2,LatAm,1.0,no,Public,Sometimes,1 to 2,68.0
+1616,26.0,Sometimes,yes,more than 5,Frequently,Male,1.85,,3.0,no,yes,3 to 4,LatAm,1.0,no,Public,Always,more than 2,105.0
+1617,23.0,Sometimes,yes,up to 5,Sometimes,Male,1.77,,1.0,no,yes,1 to 2,LatAm,2.0,no,Public,Always,less than 1,60.0
+1618,22.0,Sometimes,no,up to 5,Always,Female,1.7,,3.0,yes,yes,3 to 4,LatAm,1.0,no,Public,Always,1 to 2,
+1619,29.0,Never,yes,up to 2,Sometimes,Female,1.53,,1.0,no,no,None,LatAm,0.0,no,Car,Sometimes,1 to 2,78.0
+1620,30.0,Never,yes,up to 2,Frequently,Female,1.71,,4.0,no,yes,None,LatAm,0.0,yes,Car,Always,less than 1,82.0
+1621,23.0,Sometimes,yes,up to 5,Frequently,Female,1.6,,4.0,no,no,3 to 4,LatAm,3.0,no,Car,Sometimes,1 to 2,52.0
+1622,29.0,Never,yes,up to 5,Frequently,Male,1.77,,4.0,no,no,None,LatAm,0.0,no,Motorbike,Never,more than 2,83.0
+1623,31.0,Sometimes,no,up to 2,Sometimes,Female,1.58,,1.0,no,yes,1 to 2,LatAm,0.0,no,Public,Sometimes,less than 1,68.0
+1624,22.0,Sometimes,yes,up to 2,Frequently,Male,1.65,,4.0,no,no,3 to 4,LatAm,3.0,no,Public,Sometimes,1 to 2,62.0
+1625,21.0,Sometimes,yes,up to 2,Sometimes,Female,,,3.0,no,no,1 to 2,LatAm,2.0,no,Public,Sometimes,less than 1,48.0
+1626,21.0,Sometimes,yes,up to 2,Sometimes,Female,1.75,,3.0,no,yes,5 or more,LatAm,1.0,no,Public,Sometimes,more than 2,88.0
+1627,21.0,Sometimes,yes,up to 2,Frequently,Male,1.75,,3.0,no,yes,3 to 4,LatAm,3.0,no,Public,Never,more than 2,72.0
+1628,20.0,Sometimes,no,up to 2,Sometimes,Female,1.66,,3.0,no,yes,1 to 2,LatAm,0.0,no,Walk,Always,1 to 2,60.0
+1629,23.0,Never,no,up to 5,Never,Female,1.63,,3.0,yes,yes,3 to 4,LatAm,1.0,no,Public,Always,1 to 2,55.0
+1630,23.0,Sometimes,no,up to 2,Frequently,Male,1.68,,4.0,no,no,None,LatAm,3.0,no,Car,Sometimes,1 to 2,62.0
+1631,21.0,Never,no,up to 5,Sometimes,Male,1.64,,3.0,no,yes,None,LatAm,3.0,no,Public,Sometimes,less than 1,65.0
+1632,17.0,Never,yes,up to 5,Sometimes,Female,1.65,,1.0,no,yes,1 to 2,LatAm,2.0,no,Walk,Always,1 to 2,67.0
+1633,20.0,Sometimes,yes,up to 5,Sometimes,Male,1.65,,3.0,no,no,5 or more,LatAm,1.0,no,Public,Sometimes,1 to 2,58.0
+1634,23.0,Frequently,yes,more than 5,Always,Male,1.8,,3.0,no,yes,None,LatAm,3.0,no,Public,Never,1 to 2,90.0
+1635,23.0,Never,yes,more than 5,Always,Female,1.65,,3.0,no,yes,None,LatAm,1.0,no,Public,Sometimes,1 to 2,80.0
+1636,,Never,no,up to 2,Never,Female,1.6,,3.0,no,yes,1 to 2,LatAm,1.0,no,Public,Sometimes,1 to 2,45.0
+1637,,Never,yes,up to 2,Sometimes,Female,1.7,,3.0,no,yes,None,LatAm,3.0,no,Public,Sometimes,more than 2,80.0
+1638,19.0,Never,no,up to 2,Sometimes,Female,1.63,,3.0,,no,None,LatAm,3.0,no,Public,Always,1 to 2,58.0
+1639,23.0,Never,no,up to 2,Sometimes,Male,1.65,,3.0,no,yes,None,LatAm,3.0,no,Public,Sometimes,1 to 2,58.0
+1640,55.0,Frequently,no,up to 2,Frequently,Male,1.78,,4.0,yes,yes,5 or more,LatAm,1.0,no,Walk,Always,more than 2,84.0
+1641,22.0,Sometimes,yes,up to 5,Always,Male,1.88,,3.0,no,yes,None,LatAm,3.0,no,Car,Sometimes,less than 1,90.0
+1642,17.0,Never,no,up to 5,Frequently,Female,1.7,,3.0,no,yes,1 to 2,LatAm,1.0,no,Public,Sometimes,,85.0
+1643,23.0,Sometimes,yes,up to 5,Sometimes,Male,1.62,,3.0,no,yes,1 to 2,LatAm,0.0,no,Public,Sometimes,1 to 2,53.0
+1644,23.0,Never,yes,up to 2,Sometimes,Male,1.76,,3.0,no,no,,LatAm,1.0,no,Public,Always,less than 1,90.0
+1645,24.0,Sometimes,yes,up to 2,Sometimes,Male,1.7,,3.0,no,yes,1 to 2,LatAm,1.0,no,Car,Sometimes,1 to 2,75.0
+1646,25.0,Frequently,yes,up to 2,Always,Male,1.87,,3.0,no,no,3 to 4,LatAm,0.0,no,Public,Always,1 to 2,66.0
+1647,21.0,Sometimes,yes,up to 2,Never,Male,1.62,,1.0,no,no,1 to 2,,2.0,no,,Sometimes,more than 2,70.0
+1648,27.0,Sometimes,yes,up to 2,Always,Female,1.6,,3.0,no,no,None,LatAm,1.0,no,Car,Always,1 to 2,61.0
+1649,38.0,Sometimes,yes,up to 2,Always,Female,1.5,,1.0,no,yes,None,LatAm,2.0,yes,Car,Sometimes,1 to 2,60.0
+1650,35.0,Never,no,up to 5,Frequently,Female,1.53,,3.0,no,yes,None,LatAm,1.0,no,Car,Always,less than 1,45.0
+1651,55.0,Never,yes,up to 2,Sometimes,Male,1.65,,3.0,no,no,1 to 2,LatAm,0.0,no,Car,Sometimes,1 to 2,80.0
+1652,21.0,Sometimes,yes,up to 2,Always,Female,1.63,,3.0,no,yes,3 to 4,LatAm,2.0,yes,Public,Always,,60.0
+1653,38.0,Never,yes,up to 2,Sometimes,Female,1.64,,3.0,no,yes,3 to 4,LatAm,1.0,no,Public,Sometimes,1 to 2,60.0
+1654,22.0,Never,yes,up to 5,Frequently,Female,1.68,,3.0,no,no,None,LatAm,3.0,no,Public,Always,1 to 2,52.0
+1655,25.0,Never,no,more than 5,Sometimes,Male,1.78,,3.0,no,yes,5 or more,LatAm,1.0,no,Public,Sometimes,more than 2,98.0
+1656,26.0,Sometimes,yes,,Frequently,Male,1.75,,1.0,yes,yes,3 to 4,LatAm,1.0,yes,Public,Always,1 to 2,80.0
+1657,23.0,Never,yes,up to 2,Frequently,Female,1.6,,3.0,no,yes,5 or more,LatAm,0.0,,Public,Always,more than 2,83.0
+1658,23.0,Sometimes,no,more than 5,Sometimes,Female,1.63,,1.0,no,yes,1 to 2,LatAm,0.0,yes,Public,Always,more than 2,83.0
+1659,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.56,,3.0,no,yes,None,LatAm,1.0,yes,Public,Always,less than 1,102.0
+1660,19.0,Never,yes,up to 2,Frequently,Male,1.75,,3.0,no,yes,3 to 4,LatAm,3.0,no,Public,Sometimes,1 to 2,100.0
+1661,21.0,Sometimes,yes,more than 5,Sometimes,Male,1.68,,3.0,no,yes,None,LatAm,0.0,no,Public,Always,more than 2,70.0
+1662,21.0,Frequently,no,up to 5,Frequently,Male,1.71,,3.0,yes,no,5 or more,LatAm,2.0,no,Car,Sometimes,more than 2,75.0
+1663,21.0,Frequently,no,more than 5,Frequently,Female,1.75,,3.0,yes,yes,None,LatAm,0.0,no,Public,Sometimes,1 to 2,78.0
+1664,22.0,Never,yes,up to 2,Frequently,Female,1.61,,3.0,no,yes,1 to 2,LatAm,0.0,no,Public,Always,more than 2,63.0
+1665,24.0,Sometimes,yes,up to 5,Sometimes,Female,1.62,,3.0,no,no,1 to 2,LatAm,0.0,no,Public,Always,1 to 2,58.0
+1666,32.0,Never,no,more than 5,Sometimes,Male,1.75,,3.0,no,yes,None,LatAm,1.0,no,Car,Always,more than 2,120.0
+1667,34.0,Sometimes,no,up to 2,Sometimes,Female,1.68,,1.0,no,yes,1 to 2,LatAm,2.0,no,Car,Always,1 to 2,77.0
+1668,17.0,Never,yes,up to 5,Sometimes,Female,1.63,,1.0,no,no,1 to 2,LatAm,2.0,no,Public,Sometimes,more than 2,65.0
+1669,20.0,Sometimes,no,up to 5,,Female,1.64,,3.0,no,no,3 to 4,LatAm,2.0,yes,Car,Always,,49.0
+1670,21.0,Sometimes,yes,up to 2,Sometimes,Male,1.76,,1.0,no,yes,5 or more,LatAm,2.0,no,Walk,Always,1 to 2,78.0
+1671,20.0,Frequently,,up to 2,Sometimes,Male,1.67,,1.0,no,yes,None,LatAm,1.0,no,Car,Sometimes,more than 2,78.0
+1672,56.0,Frequently,no,up to 2,Sometimes,Male,1.79,,3.0,no,yes,1 to 2,LatAm,1.0,yes,Car,Sometimes,1 to 2,90.0
+1673,26.0,Sometimes,yes,more than 5,Sometimes,Female,1.59,,1.0,no,yes,None,LatAm,2.0,,Public,Sometimes,1 to 2,47.0
+1674,22.0,Never,no,up to 2,Sometimes,Female,1.64,,3.0,no,yes,None,LatAm,2.0,no,Public,Always,1 to 2,56.0
+1675,18.0,Sometimes,yes,up to 5,Frequently,Female,1.67,,3.0,no,yes,None,LatAm,0.0,no,Public,Never,less than 1,91.0
+1676,21.0,Never,yes,up to 2,Sometimes,Male,1.72,,3.0,no,no,1 to 2,LatAm,0.0,no,Public,Sometimes,less than 1,75.0
+1677,18.0,Sometimes,yes,up to 5,,Male,1.74,,3.0,no,no,1 to 2,LatAm,1.0,no,Public,Sometimes,1 to 2,70.0
+1678,18.0,Sometimes,yes,up to 5,Frequently,Male,1.87,,3.0,yes,yes,1 to 2,LatAm,2.0,no,Car,Always,more than 2,67.0
+1679,38.0,Frequently,yes,up to 2,Frequently,Male,1.7,,3.0,,no,None,LatAm,1.0,no,Car,Always,1 to 2,78.0
+1680,16.0,Never,yes,up to 2,Frequently,Male,1.67,,1.0,no,yes,1 to 2,LatAm,2.0,no,Public,Sometimes,more than 2,50.0
+1681,18.0,Sometimes,no,up to 5,Sometimes,Male,1.79,,3.0,no,no,1 to 2,LatAm,2.0,no,Public,Always,1 to 2,52.0
+1682,19.0,Sometimes,no,up to 2,Sometimes,Male,1.88,,3.0,,no,5 or more,LatAm,0.0,no,Car,Sometimes,more than 2,79.0
+1683,,Sometimes,yes,more than 5,Sometimes,Male,1.86,,1.0,no,yes,1 to 2,,2.0,yes,Public,,1 to 2,110.0
+1684,23.0,Sometimes,yes,more than 5,Sometimes,Male,1.7,,3.0,no,no,1 to 2,LatAm,0.0,no,Public,Always,more than 2,75.0
+1685,26.0,Sometimes,yes,up to 2,Sometimes,Male,1.7,,3.0,no,no,None,LatAm,0.0,yes,Public,Sometimes,less than 1,70.0
+1686,16.0,Sometimes,yes,more than 5,Always,Male,1.84,,3.0,no,yes,5 or more,LatAm,1.0,no,Walk,Always,more than 2,45.0
+1687,16.0,Sometimes,yes,up to 5,Always,Female,1.57,,4.0,no,no,None,LatAm,0.0,no,Public,Sometimes,1 to 2,49.0
+1688,17.0,Never,yes,up to 5,Frequently,Male,1.79,,4.0,no,yes,3 to 4,LatAm,3.0,no,Public,Sometimes,1 to 2,57.0
+1689,17.0,Never,yes,up to 5,Always,Male,1.72,,3.0,no,no,5 or more,LatAm,1.0,no,Public,Sometimes,1 to 2,62.0
+1690,26.0,Never,yes,up to 2,Sometimes,Female,1.65,,3.0,no,no,1 to 2,LatAm,2.0,no,Walk,Always,less than 1,63.0
+1691,18.0,Never,yes,up to 5,Sometimes,Male,1.75,,4.0,no,no,1 to 2,LatAm,1.0,no,Public,Always,1 to 2,70.0
+1692,21.0,Never,yes,up to 5,Always,Male,1.67,,1.0,no,yes,1 to 2,LatAm,2.0,no,Public,Always,1 to 2,67.0
+1693,23.0,Sometimes,,up to 2,Frequently,Female,1.75,,3.0,no,no,3 to 4,LatAm,0.0,no,Public,Always,1 to 2,56.0
+1694,,Never,no,up to 2,Always,Female,1.7,,4.0,yes,no,5 or more,LatAm,1.0,no,Car,Always,more than 2,56.0
+1695,19.0,Sometimes,yes,up to 5,Frequently,Male,1.7,,4.0,no,no,3 to 4,LatAm,1.0,no,Public,Never,less than 1,50.0
+1696,23.0,Sometimes,yes,up to 2,Sometimes,Male,1.74,,3.0,no,yes,1 to 2,LatAm,1.0,no,Public,Always,1 to 2,105.0
+1697,24.0,Sometimes,yes,up to 5,Sometimes,Female,1.6,,3.0,no,yes,None,LatAm,2.0,no,,Never,1 to 2,51.0
+1698,33.0,Sometimes,no,up to 2,Sometimes,Female,1.56,,3.0,no,yes,1 to 2,LatAm,3.0,no,Public,Sometimes,1 to 2,48.0
+1699,40.0,Never,yes,up to 2,Sometimes,Female,1.56,,1.0,no,yes,3 to 4,LatAm,3.0,no,Public,Sometimes,1 to 2,80.0
+1700,36.0,Sometimes,no,up to 2,Sometimes,Female,1.58,,3.0,no,yes,3 to 4,LatAm,2.0,no,Car,Always,less than 1,60.0
+1701,17.0,Sometimes,yes,more than 5,,Male,1.7,,3.0,no,yes,None,,0.0,no,Walk,Always,1 to 2,70.0
+1702,18.0,Never,yes,more than 5,Sometimes,Female,1.6,,1.0,yes,yes,None,LatAm,3.0,no,Walk,Always,less than 1,60.0
+1703,16.0,Never,yes,up to 5,Frequently,Female,1.55,,3.0,no,no,1 to 2,LatAm,3.0,,Public,Sometimes,1 to 2,45.0
+1704,18.0,Never,no,more than 5,Sometimes,Female,1.59,,3.0,no,no,1 to 2,LatAm,3.0,no,Public,Never,less than 1,53.0
+1705,23.0,Never,yes,more than 5,Always,Male,1.71,,3.0,no,yes,,LatAm,1.0,no,Public,Sometimes,more than 2,50.0
+1706,18.0,Sometimes,no,up to 5,Sometimes,Female,1.7,,3.0,no,no,None,LatAm,2.0,no,Walk,Sometimes,1 to 2,50.0
+1707,18.0,Sometimes,yes,up to 5,Sometimes,Male,1.7,,3.0,no,no,None,LatAm,2.0,no,Public,Never,1 to 2,78.0
+1708,21.0,Sometimes,no,up to 2,Frequently,Male,1.65,,1.0,no,no,None,LatAm,3.0,no,Motorbike,Always,less than 1,60.0
+1709,27.0,Sometimes,yes,up to 5,Frequently,Male,1.83,,1.0,no,yes,3 to 4,LatAm,1.0,no,Walk,Always,1 to 2,99.0
+1710,18.0,Never,no,up to 2,Sometimes,Male,1.74,,3.0,no,no,5 or more,LatAm,2.0,no,Public,Always,1 to 2,86.0
+1711,19.0,Sometimes,yes,up to 5,Always,Female,1.61,,3.0,no,yes,3 to 4,LatAm,0.0,no,Public,Sometimes,1 to 2,54.0
+1712,20.0,Sometimes,yes,up to 2,Never,Female,1.67,,3.0,no,no,5 or more,LatAm,1.0,no,Public,Always,1 to 2,60.0
+1713,18.0,Frequently,yes,up to 2,Sometimes,Female,1.56,,3.0,no,no,None,LatAm,3.0,no,Car,Sometimes,less than 1,55.0
+1714,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.67,,3.0,no,no,3 to 4,LatAm,0.0,no,Car,Always,1 to 2,64.0
+1715,18.0,Never,,up to 2,Sometimes,Female,1.55,,3.0,no,no,None,,1.0,no,Car,Sometimes,less than 1,56.0
+1716,18.0,Sometimes,yes,more than 5,Sometimes,Male,1.72,,3.0,no,yes,None,LatAm,0.0,no,Public,Sometimes,1 to 2,53.0
+1717,19.0,Sometimes,yes,up to 2,Frequently,Male,1.83,,3.0,no,yes,3 to 4,LatAm,3.0,no,Public,Always,1 to 2,82.0
+1718,23.0,Sometimes,no,up to 5,Never,Male,,,3.0,no,no,3 to 4,LatAm,0.0,no,,Always,1 to 2,69.0
+1719,18.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,,3.0,no,no,None,LatAm,0.0,no,Car,Always,less than 1,50.0
+1720,19.0,Sometimes,yes,up to 2,Sometimes,Female,1.5,,3.0,no,no,None,LatAm,0.0,no,Public,Sometimes,less than 1,45.0
+1721,19.0,Sometimes,yes,up to 5,Always,Male,1.69,,3.0,no,no,,LatAm,1.0,no,Public,Sometimes,less than 1,60.0
+1722,19.0,Frequently,yes,more than 5,Frequently,Male,1.76,,3.0,no,yes,1 to 2,LatAm,1.0,no,Public,Sometimes,more than 2,79.0
+1723,21.0,Never,yes,more than 5,Sometimes,Male,1.71,,1.0,no,yes,None,LatAm,3.0,no,Public,Sometimes,1 to 2,100.0
+1724,,Sometimes,yes,up to 5,Frequently,Female,1.6,,3.0,no,yes,1 to 2,LatAm,3.0,no,Public,Sometimes,less than 1,51.0
+1725,19.0,Never,yes,up to 2,Sometimes,Male,1.78,,3.0,no,no,1 to 2,LatAm,0.0,no,Public,Sometimes,less than 1,64.0
+1726,18.0,Never,no,more than 5,Sometimes,Female,1.62,,1.0,no,no,None,LatAm,3.0,no,Public,Sometimes,less than 1,68.0
+1727,19.0,Sometimes,yes,up to 5,Frequently,Male,1.69,,3.0,no,no,1 to 2,LatAm,0.0,no,Public,Sometimes,less than 1,65.0
+1728,21.0,Sometimes,yes,up to 5,Always,Male,1.8,,3.0,no,yes,5 or more,LatAm,0.0,no,Public,Never,1 to 2,73.0
+1729,23.0,Frequently,yes,up to 2,Sometimes,Male,1.75,,3.0,no,no,1 to 2,LatAm,2.0,no,Public,Sometimes,1 to 2,75.0
+1730,20.0,Never,no,up to 2,Sometimes,Male,1.84,,3.0,no,,5 or more,LatAm,0.0,no,Motorbike,Sometimes,more than 2,104.0
+1731,19.0,Never,yes,more than 5,Sometimes,Female,1.56,,1.0,no,no,None,LatAm,2.0,no,Public,Sometimes,less than 1,50.0
+1732,25.0,Sometimes,yes,up to 5,Sometimes,Male,1.66,,3.0,no,no,1 to 2,LatAm,0.0,yes,Public,Sometimes,less than 1,68.0
+1733,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.76,,3.0,no,yes,3 to 4,LatAm,2.0,no,Public,Always,1 to 2,138.0
+1734,18.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,,3.0,no,yes,3 to 4,LatAm,0.0,no,Public,Always,more than 2,133.0
+1735,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.77,,3.0,no,yes,1 to 2,LatAm,1.0,no,Public,Always,more than 2,134.0
+1736,,Never,yes,up to 5,Frequently,Female,1.67,,3.0,no,yes,3 to 4,LatAm,2.0,no,Public,Always,more than 2,50.0
+1737,22.0,Never,yes,up to 5,Frequently,Female,1.71,,,no,yes,3 to 4,LatAm,1.0,no,Public,Always,less than 1,52.0
+1738,23.0,Never,no,,Frequently,Female,1.6,,1.0,no,no,None,LatAm,3.0,no,Public,Always,less than 1,45.0
+1739,,,no,up to 2,Frequently,Female,1.6,,3.0,no,no,3 to 4,LatAm,2.0,no,Public,Always,1 to 2,45.0
+1740,19.0,Never,yes,up to 5,Sometimes,Female,1.56,,2.0,yes,no,3 to 4,LatAm,1.0,,Public,Always,1 to 2,42.0
+1741,20.0,Sometimes,yes,up to 5,Frequently,Female,1.57,,1.0,no,no,None,LatAm,0.0,no,Public,,less than 1,41.0
+1742,20.0,Sometimes,yes,up to 2,Frequently,Female,1.53,,1.0,no,no,None,LatAm,3.0,no,Public,Always,less than 1,42.0
+1743,21.0,Sometimes,no,up to 2,Frequently,Female,1.72,,3.0,no,no,1 to 2,LatAm,1.0,no,Public,Always,1 to 2,51.0
+1744,20.0,Sometimes,no,up to 2,Frequently,Female,1.73,,4.0,no,no,1 to 2,LatAm,2.0,no,Public,Never,less than 1,50.0
+1745,18.0,Never,yes,up to 5,Frequently,Male,1.69,,3.0,no,yes,1 to 2,LatAm,3.0,no,Public,Always,1 to 2,52.0
+1746,,Sometimes,yes,more than 5,Sometimes,Female,1.58,,1.0,no,no,None,LatAm,1.0,no,Public,Sometimes,1 to 2,42.0
+1747,19.0,Sometimes,yes,up to 5,,Female,1.66,,3.0,no,no,3 to 4,LatAm,3.0,no,Public,Never,less than 1,50.0
+1748,16.0,Sometimes,yes,up to 5,Sometimes,Male,1.75,,4.0,no,no,3 to 4,LatAm,3.0,no,Public,Sometimes,1 to 2,50.0
+1749,18.0,Sometimes,yes,up to 5,Sometimes,Male,1.76,,3.0,no,no,None,,3.0,no,Public,Always,1 to 2,52.0
+1750,16.0,Sometimes,yes,up to 5,Sometimes,Female,1.82,,3.0,no,no,,LatAm,2.0,no,Public,Always,1 to 2,47.0
+1751,18.0,Never,yes,up to 2,Sometimes,Male,1.79,,4.0,no,yes,3 to 4,LatAm,2.0,no,Car,Always,1 to 2,60.0
+1752,17.0,Never,yes,up to 2,Sometimes,Male,1.81,,4.0,no,yes,3 to 4,LatAm,3.0,no,Car,Always,1 to 2,59.0
+1753,21.0,Never,yes,up to 5,Frequently,Female,1.76,,4.0,no,yes,3 to 4,LatAm,0.0,no,Public,Always,more than 2,55.0
+1754,23.0,Never,yes,up to 2,Frequently,Female,1.74,,3.0,no,yes,3 to 4,LatAm,2.0,no,Public,,1 to 2,54.0
+1755,18.0,Sometimes,yes,up to 5,Frequently,Female,1.74,,4.0,no,no,3 to 4,LatAm,3.0,no,Public,Never,less than 1,50.0
+1756,19.0,Sometimes,no,up to 5,Frequently,Female,1.53,,1.0,no,no,,LatAm,1.0,no,Public,Always,1 to 2,42.0
+1757,17.0,Never,yes,up to 5,Sometimes,Male,,,3.0,no,yes,5 or more,LatAm,3.0,no,Car,Sometimes,1 to 2,59.0
+1758,23.0,Never,yes,up to 2,Frequently,Female,1.72,,4.0,no,yes,1 to 2,LatAm,2.0,no,Public,Sometimes,less than 1,50.0
+1759,22.0,Never,yes,up to 5,Frequently,Female,1.68,,3.0,no,yes,1 to 2,LatAm,3.0,no,Public,Always,more than 2,50.0
+1760,18.0,Sometimes,yes,up to 5,Sometimes,Female,1.7,,4.0,no,no,1 to 2,LatAm,2.0,no,Public,Sometimes,less than 1,50.0
+1761,17.0,Never,yes,up to 2,Sometimes,Male,1.8,,4.0,no,yes,3 to 4,LatAm,1.0,no,Car,Sometimes,1 to 2,60.0
+1762,18.0,Sometimes,yes,more than 5,Sometimes,Male,1.71,,3.0,no,yes,None,LatAm,3.0,no,Public,Sometimes,1 to 2,51.0
+1763,20.0,,yes,more than 5,Sometimes,Male,1.75,,3.0,no,yes,3 to 4,LatAm,2.0,no,Public,Sometimes,more than 2,55.0
+1764,22.0,Never,yes,up to 5,Frequently,Female,1.67,,3.0,no,yes,1 to 2,LatAm,,no,Public,Always,more than 2,50.0
+1765,20.0,Sometimes,yes,up to 2,Frequently,Female,1.53,,1.0,no,no,None,LatAm,2.0,no,Public,Always,less than 1,42.0
+1766,21.0,Never,no,up to 5,Frequently,Female,1.73,,4.0,no,yes,3 to 4,,2.0,no,Public,Always,less than 1,50.0
+1767,23.0,Never,yes,up to 5,,,1.74,,3.0,no,yes,3 to 4,LatAm,2.0,no,Public,Sometimes,1 to 2,54.0
+1768,23.0,Never,yes,up to 2,Frequently,Female,1.75,,3.0,no,yes,3 to 4,LatAm,2.0,no,Public,Sometimes,1 to 2,56.0
+1769,17.0,Never,yes,up to 5,Sometimes,Male,1.9,,3.0,no,yes,5 or more,LatAm,0.0,no,Car,Always,1 to 2,60.0
+1770,23.0,Never,yes,more than 5,Frequently,Female,1.71,,3.0,no,yes,None,LatAm,3.0,no,Public,Sometimes,more than 2,50.0
+1771,17.0,Never,yes,up to 2,Sometimes,Male,1.83,,4.0,no,yes,3 to 4,LatAm,3.0,no,Car,Always,1 to 2,
+1772,19.0,Sometimes,yes,up to 5,Frequently,Female,1.53,,1.0,no,no,None,LatAm,1.0,,,Always,1 to 2,42.0
+1773,22.0,Never,yes,,Frequently,Female,1.7,,3.0,no,yes,,LatAm,3.0,no,Public,,1 to 2,51.0
+1774,23.0,Never,yes,up to 5,Frequently,Female,1.72,,3.0,no,yes,1 to 2,LatAm,2.0,no,Public,Always,less than 1,52.0
+1775,22.0,Never,no,up to 2,Frequently,Female,1.6,,2.0,no,no,1 to 2,LatAm,3.0,no,Public,Always,,45.0
+1776,20.0,Sometimes,yes,up to 5,Frequently,Female,1.57,,1.0,no,no,None,LatAm,3.0,no,Public,Always,less than 1,42.0
+1777,22.0,Sometimes,yes,up to 2,Sometimes,Male,1.87,,3.0,no,yes,3 to 4,LatAm,3.0,no,Car,Always,1 to 2,61.0
+1778,,Sometimes,yes,up to 5,Sometimes,Male,1.7,,3.0,no,yes,1 to 2,LatAm,0.0,no,Public,Always,1 to 2,52.0
+1779,19.0,Sometimes,yes,more than 5,Sometimes,Female,1.57,,1.0,no,,None,LatAm,0.0,no,Public,Sometimes,1 to 2,42.0
+1780,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.69,,3.0,no,no,3 to 4,LatAm,1.0,no,Public,Never,less than 1,50.0
+1781,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.67,,3.0,no,no,3 to 4,LatAm,3.0,no,Public,Always,1 to 2,50.0
+1782,25.0,Never,yes,up to 2,Frequently,Female,1.63,,3.0,no,yes,3 to 4,LatAm,2.0,no,Public,Always,1 to 2,46.0
+1783,,Sometimes,yes,up to 5,Sometimes,Female,1.74,,3.0,no,no,1 to 2,LatAm,2.0,no,Public,Sometimes,less than 1,50.0
+1784,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.76,,3.0,no,no,3 to 4,LatAm,1.0,no,Public,Sometimes,less than 1,50.0
+1785,18.0,Sometimes,yes,up to 5,Frequently,Female,1.72,,4.0,no,no,3 to 4,LatAm,0.0,no,Public,Never,less than 1,50.0
+1786,21.0,Sometimes,yes,up to 2,Frequently,Female,1.52,,1.0,no,no,None,LatAm,0.0,no,Public,Always,less than 1,42.0
+1787,17.0,Never,yes,up to 5,Sometimes,Male,1.85,,4.0,no,yes,3 to 4,LatAm,0.0,no,Car,Always,1 to 2,60.0
+1788,18.0,Never,yes,up to 5,Sometimes,Male,1.85,,4.0,no,,3 to 4,LatAm,1.0,no,,Always,1 to 2,59.0
+1789,22.0,Never,yes,more than 5,Frequently,Female,1.72,,3.0,no,yes,3 to 4,LatAm,0.0,no,Public,Sometimes,less than 1,51.0
+1790,18.0,Sometimes,yes,up to 5,Sometimes,Female,1.71,,3.0,no,no,None,LatAm,2.0,no,Public,Sometimes,less than 1,50.0
+1791,18.0,Sometimes,yes,up to 5,Sometimes,Female,1.76,,3.0,no,no,None,LatAm,2.0,no,Public,Sometimes,1 to 2,50.0
+1792,18.0,Sometimes,yes,up to 5,Sometimes,Female,1.7,,3.0,no,no,None,LatAm,3.0,no,Public,Never,1 to 2,50.0
+1793,20.0,Sometimes,yes,up to 2,Frequently,Female,1.53,,3.0,no,no,None,LatAm,3.0,no,Public,Always,less than 1,41.0
+1794,18.0,Never,yes,up to 2,Sometimes,Male,1.84,,4.0,no,yes,3 to 4,LatAm,3.0,no,Car,Always,1 to 2,60.0
+1795,18.0,Sometimes,yes,more than 5,Sometimes,Male,1.71,,3.0,no,yes,1 to 2,LatAm,2.0,no,Public,Sometimes,1 to 2,51.0
+1796,19.0,Sometimes,yes,up to 5,Frequently,Female,1.53,,1.0,no,no,None,LatAm,2.0,no,Public,Always,less than 1,42.0
+1797,18.0,Sometimes,yes,more than 5,Sometimes,Male,1.72,,3.0,no,yes,1 to 2,,0.0,no,Public,Sometimes,1 to 2,54.0
+1798,18.0,Sometimes,yes,up to 5,Sometimes,Male,1.74,,3.0,no,yes,1 to 2,LatAm,3.0,no,Public,Sometimes,less than 1,50.0
+1799,27.0,Never,yes,up to 5,Sometimes,Male,1.82,,2.0,no,no,,LatAm,1.0,no,Car,Sometimes,1 to 2,87.0
+1800,22.0,Sometimes,yes,up to 2,Sometimes,Male,1.7,,4.0,no,yes,1 to 2,LatAm,3.0,no,Public,Sometimes,1 to 2,76.0
+1801,35.0,Sometimes,yes,up to 5,Sometimes,,1.53,,2.0,no,no,None,LatAm,0.0,no,Car,Sometimes,less than 1,63.0
+1802,37.0,Sometimes,yes,up to 2,Sometimes,Female,1.55,,3.0,no,yes,None,LatAm,,no,Car,Sometimes,more than 2,62.0
+1803,22.0,Sometimes,yes,up to 2,Sometimes,Female,1.6,,3.0,no,yes,3 to 4,LatAm,2.0,no,Public,Sometimes,more than 2,66.0
+1804,37.0,Sometimes,yes,up to 2,Sometimes,Female,1.59,,3.0,no,yes,5 or more,LatAm,0.0,no,Car,Sometimes,1 to 2,63.0
+1805,19.0,Sometimes,yes,up to 2,Sometimes,Female,1.55,,3.0,yes,no,1 to 2,LatAm,3.0,no,Public,Always,less than 1,61.0
+1806,17.0,Sometimes,yes,more than 5,Sometimes,Female,1.6,,2.0,yes,yes,None,LatAm,1.0,no,Public,Always,1 to 2,65.0
+1807,19.0,Frequently,yes,more than 5,Sometimes,Female,1.76,,1.0,no,yes,3 to 4,LatAm,0.0,no,Public,Sometimes,more than 2,80.0
+1808,18.0,Frequently,yes,up to 5,Sometimes,Female,1.74,,3.0,no,yes,1 to 2,LatAm,1.0,no,Public,Always,1 to 2,77.0
+1809,20.0,Sometimes,yes,up to 2,Sometimes,Male,1.82,,3.0,no,yes,None,LatAm,1.0,,Public,Sometimes,1 to 2,87.0
+1810,42.0,Sometimes,yes,up to 2,Sometimes,Female,1.77,,3.0,no,yes,None,LatAm,3.0,no,Car,Always,1 to 2,76.0
+1811,22.0,Sometimes,yes,up to 5,Sometimes,Male,1.87,,3.0,no,yes,None,LatAm,3.0,no,Public,Sometimes,less than 1,89.0
+1812,23.0,Sometimes,yes,more than 5,Sometimes,Male,1.72,,3.0,no,yes,None,LatAm,1.0,no,Public,Sometimes,1 to 2,76.0
+1813,19.0,Frequently,yes,up to 5,Sometimes,Male,1.75,,2.0,no,yes,1 to 2,LatAm,0.0,no,Public,Sometimes,1 to 2,80.0
+1814,33.0,Sometimes,yes,up to 2,Sometimes,Female,1.67,,1.0,no,yes,None,LatAm,0.0,no,Car,Always,less than 1,75.0
+1815,22.0,Sometimes,yes,more than 5,Sometimes,Female,1.61,,4.0,no,yes,1 to 2,LatAm,1.0,no,,Sometimes,more than 2,68.0
+1816,22.0,Sometimes,yes,up to 2,Sometimes,Female,1.73,,1.0,no,yes,3 to 4,LatAm,0.0,no,Public,Sometimes,1 to 2,79.0
+1817,21.0,Sometimes,yes,up to 2,Sometimes,Female,1.74,,1.0,no,yes,3 to 4,LatAm,0.0,no,Public,Always,1 to 2,79.0
+1818,21.0,Sometimes,yes,up to 2,Never,Male,1.62,,1.0,no,no,1 to 2,LatAm,2.0,no,Public,Sometimes,more than 2,70.0
+1819,26.0,Sometimes,yes,up to 2,Sometimes,Male,1.75,,1.0,no,yes,3 to 4,LatAm,0.0,no,Public,Sometimes,1 to 2,80.0
+1820,20.0,Sometimes,yes,up to 2,Sometimes,Male,1.82,,3.0,no,yes,3 to 4,LatAm,2.0,no,Public,Always,more than 2,85.0
+1821,20.0,Sometimes,yes,up to 2,Sometimes,Male,1.81,,3.0,no,yes,3 to 4,LatAm,2.0,no,Public,Always,more than 2,85.0
+1822,19.0,Sometimes,yes,up to 5,Sometimes,Male,1.81,,3.0,no,yes,3 to 4,LatAm,2.0,no,Public,Always,1 to 2,85.0
+1823,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,,2.0,no,yes,1 to 2,LatAm,0.0,no,Public,Always,1 to 2,78.0
+1824,22.0,Sometimes,yes,up to 2,,Male,1.61,,3.0,no,yes,1 to 2,LatAm,,no,Public,Sometimes,1 to 2,67.0
+1825,31.0,Sometimes,yes,up to 2,Sometimes,Female,1.65,,3.0,no,yes,None,LatAm,3.0,no,Car,Sometimes,,69.0
+1826,18.0,Sometimes,yes,up to 5,Sometimes,Female,1.5,,3.0,yes,no,None,LatAm,3.0,no,Public,Sometimes,less than 1,55.0
+1827,19.0,Never,yes,up to 2,Sometimes,Female,1.62,,3.0,no,yes,1 to 2,LatAm,2.0,no,Public,Sometimes,1 to 2,70.0
+1828,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.52,,3.0,yes,no,1 to 2,LatAm,2.0,no,Public,Always,less than 1,60.0
+1829,18.0,Sometimes,yes,up to 2,Sometimes,Female,1.6,,3.0,yes,yes,None,LatAm,1.0,no,Public,Always,1 to 2,65.0
+1830,33.0,Sometimes,yes,up to 2,Sometimes,Female,1.73,,3.0,no,yes,1 to 2,LatAm,1.0,no,Car,Sometimes,less than 1,76.0
+1831,21.0,Sometimes,yes,up to 2,Sometimes,Female,1.71,,3.0,no,yes,1 to 2,,1.0,no,Public,Sometimes,1 to 2,75.0
+1832,17.0,Sometimes,yes,up to 5,Sometimes,Female,1.54,,2.0,yes,no,,LatAm,2.0,no,Public,Sometimes,1 to 2,57.0
+1833,26.0,Never,,up to 5,Sometimes,Male,1.82,,2.0,no,no,3 to 4,LatAm,3.0,no,Car,Sometimes,1 to 2,87.0
+1834,21.0,Sometimes,yes,up to 5,Never,Female,1.62,,3.0,no,yes,1 to 2,LatAm,2.0,no,Public,Never,1 to 2,69.0
+1835,34.0,Sometimes,yes,up to 2,Sometimes,Female,1.68,,1.0,no,,None,LatAm,0.0,no,Car,Always,less than 1,75.0
+1836,21.0,Sometimes,yes,up to 2,Never,Male,1.61,,1.0,no,no,1 to 2,LatAm,0.0,no,Public,Sometimes,more than 2,69.0
+1837,22.0,Sometimes,yes,up to 2,Sometimes,Female,1.73,,1.0,no,yes,1 to 2,LatAm,1.0,no,Public,Sometimes,1 to 2,79.0
+1838,21.0,Sometimes,yes,up to 2,Never,Male,1.62,,1.0,no,no,1 to 2,LatAm,1.0,no,Public,Sometimes,more than 2,70.0
+1839,30.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,,3.0,no,yes,None,LatAm,1.0,no,Car,Sometimes,1 to 2,69.0
+1840,21.0,Sometimes,yes,up to 2,Never,Female,,,3.0,no,yes,1 to 2,LatAm,2.0,no,Public,Sometimes,more than 2,68.0
+1841,22.0,Sometimes,,up to 2,Sometimes,Female,1.6,,3.0,no,yes,3 to 4,LatAm,1.0,no,Public,Sometimes,1 to 2,66.0
+1842,21.0,Sometimes,yes,up to 2,Sometimes,Female,1.74,,1.0,no,yes,1 to 2,LatAm,1.0,no,,Always,1 to 2,79.0
+1843,21.0,Sometimes,yes,up to 2,Sometimes,Male,1.71,,3.0,no,yes,1 to 2,LatAm,0.0,no,Public,Sometimes,less than 1,75.0
+1844,29.0,Sometimes,yes,up to 2,Sometimes,,1.66,,3.0,no,yes,3 to 4,LatAm,1.0,no,Car,Sometimes,,71.0
+1845,32.0,Sometimes,yes,up to 5,Sometimes,Female,1.67,,3.0,no,yes,None,LatAm,0.0,no,Car,Sometimes,less than 1,73.0
+1846,16.0,Never,yes,up to 5,Sometimes,Female,1.62,,1.0,yes,yes,None,LatAm,0.0,no,Public,Sometimes,less than 1,65.0
+1847,20.0,Sometimes,yes,up to 2,Sometimes,Female,1.57,,3.0,yes,no,1 to 2,LatAm,2.0,no,Public,Always,1 to 2,62.0
+1848,17.0,,yes,more than 5,Sometimes,Female,1.6,,2.0,yes,yes,1 to 2,LatAm,3.0,no,Public,Always,1 to 2,65.0
+1849,29.0,Never,yes,up to 2,Sometimes,Male,1.77,,4.0,no,no,3 to 4,LatAm,2.0,no,Car,Sometimes,less than 1,87.0
+1850,23.0,Never,yes,,Sometimes,Male,1.65,,3.0,no,yes,None,LatAm,3.0,no,Public,Sometimes,1 to 2,80.0
+1851,29.0,,no,more than 5,Sometimes,Female,1.58,,2.0,no,yes,3 to 4,LatAm,0.0,no,Public,Sometimes,1 to 2,66.0
+1852,,,yes,up to 5,Sometimes,Male,1.82,,3.0,no,yes,1 to 2,LatAm,2.0,no,Car,Sometimes,less than 1,92.0
+1853,20.0,Never,no,up to 5,Sometimes,Female,1.53,,3.0,no,yes,3 to 4,LatAm,0.0,no,,Sometimes,1 to 2,65.0
+1854,19.0,Sometimes,yes,up to 5,Sometimes,Male,1.77,,3.0,no,yes,3 to 4,LatAm,2.0,no,Public,Always,more than 2,88.0
+1855,22.0,Sometimes,yes,up to 5,Sometimes,Male,1.79,,2.0,no,yes,None,LatAm,3.0,no,Public,Sometimes,1 to 2,90.0
+1856,23.0,Never,yes,more than 5,Sometimes,Female,1.7,,3.0,no,yes,1 to 2,LatAm,1.0,no,Public,Sometimes,1 to 2,80.0
+1857,24.0,Sometimes,yes,up to 5,Sometimes,Male,1.71,,3.0,no,yes,1 to 2,LatAm,1.0,no,Public,Sometimes,1 to 2,84.0
+1858,22.0,Never,yes,more than 5,Sometimes,Male,1.65,,3.0,no,yes,1 to 2,LatAm,1.0,no,Public,Sometimes,1 to 2,80.0
+1859,42.0,Never,yes,up to 5,Sometimes,Female,1.65,,3.0,no,yes,None,LatAm,1.0,no,Car,Sometimes,less than 1,79.0
+1860,22.0,Sometimes,yes,more than 5,Sometimes,Male,1.69,,2.0,no,yes,5 or more,LatAm,0.0,no,Public,Sometimes,1 to 2,
+1861,23.0,Sometimes,yes,up to 5,Sometimes,Male,1.7,,3.0,no,yes,None,LatAm,3.0,no,Public,Sometimes,1 to 2,81.0
+1862,38.0,Never,yes,up to 2,Sometimes,Female,1.7,,3.0,no,yes,None,LatAm,1.0,no,Car,Always,more than 2,79.0
+1863,34.0,Never,yes,up to 5,Sometimes,Female,1.68,,3.0,no,yes,3 to 4,LatAm,3.0,no,Car,Always,1 to 2,77.0
+1864,18.0,Sometimes,yes,up to 2,Sometimes,Male,1.76,,3.0,no,yes,1 to 2,LatAm,2.0,no,Public,Always,more than 2,85.0
+1865,36.0,Never,yes,up to 2,Sometimes,Female,1.7,,1.0,no,yes,1 to 2,LatAm,2.0,no,Car,Sometimes,1 to 2,83.0
+1866,19.0,Sometimes,no,up to 5,Sometimes,Female,1.55,,3.0,no,yes,3 to 4,LatAm,2.0,no,Public,Always,1 to 2,72.0
+1867,20.0,Sometimes,no,up to 5,Sometimes,Male,1.7,,3.0,no,yes,3 to 4,LatAm,1.0,no,Public,Sometimes,1 to 2,79.0
+1868,30.0,Sometimes,yes,up to 5,Sometimes,Male,1.84,,3.0,no,,3 to 4,LatAm,1.0,no,Public,Sometimes,1 to 2,94.0
+1869,27.0,Sometimes,yes,up to 2,Sometimes,Male,1.88,,1.0,no,yes,3 to 4,LatAm,3.0,no,Public,Always,less than 1,100.0
+1870,21.0,Sometimes,yes,up to 5,Sometimes,Male,1.73,,3.0,no,yes,3 to 4,LatAm,2.0,no,Public,Sometimes,1 to 2,83.0
+1871,33.0,Sometimes,yes,up to 5,Sometimes,Male,1.85,,3.0,no,yes,1 to 2,LatAm,1.0,no,Public,Sometimes,less than 1,98.0
+1872,22.0,Sometimes,yes,up to 2,Sometimes,Male,1.79,,2.0,no,yes,None,LatAm,1.0,no,Public,Sometimes,1 to 2,90.0
+1873,24.0,Sometimes,yes,up to 5,Sometimes,Male,1.71,,3.0,no,yes,None,LatAm,0.0,no,Public,Sometimes,more than 2,86.0
+1874,29.0,Sometimes,yes,up to 2,,Male,1.75,,2.0,no,yes,None,LatAm,3.0,no,Public,Sometimes,1 to 2,88.0
+1875,55.0,Never,yes,up to 2,Sometimes,Male,1.66,,3.0,no,yes,1 to 2,LatAm,0.0,no,Car,Sometimes,1 to 2,81.0
+1876,21.0,Never,no,up to 5,Sometimes,Female,1.49,,1.0,no,yes,None,LatAm,3.0,no,Public,Sometimes,less than 1,60.0
+1877,39.0,Never,yes,up to 2,Sometimes,Female,1.69,,3.0,no,yes,None,LatAm,3.0,no,Car,Always,more than 2,79.0
+1878,23.0,Sometimes,yes,more than 5,Sometimes,Male,1.82,,3.0,no,yes,3 to 4,LatAm,0.0,no,Public,Sometimes,1 to 2,97.0
+1879,33.0,Never,yes,up to 2,Sometimes,Male,1.71,,1.0,no,yes,3 to 4,LatAm,0.0,no,Car,Sometimes,1 to 2,83.0
+1880,37.0,,yes,up to 2,Sometimes,Male,1.84,,2.0,no,yes,1 to 2,LatAm,0.0,no,Car,Sometimes,more than 2,92.0
+1881,18.0,Sometimes,yes,up to 5,Sometimes,Male,1.76,,3.0,no,yes,1 to 2,LatAm,2.0,no,Public,Always,1 to 2,86.0
+1882,23.0,Sometimes,yes,up to 2,Sometimes,Male,1.76,,3.0,no,yes,1 to 2,LatAm,1.0,no,,Sometimes,1 to 2,90.0
+1883,21.0,Never,yes,up to 5,Sometimes,Male,1.7,,3.0,no,yes,5 or more,LatAm,3.0,no,Public,Sometimes,1 to 2,80.0
+1884,30.0,Never,yes,up to 2,Sometimes,Male,1.75,,3.0,no,yes,1 to 2,LatAm,1.0,no,Car,Sometimes,1 to 2,83.0
+1885,21.0,Never,yes,up to 5,Sometimes,Male,1.72,,3.0,no,yes,,LatAm,1.0,no,Public,Sometimes,1 to 2,80.0
+1886,22.0,Never,no,up to 5,Sometimes,Female,1.48,,2.0,no,yes,None,LatAm,2.0,,Public,Sometimes,1 to 2,63.0
+1887,31.0,Sometimes,yes,up to 2,Sometimes,Male,1.8,,3.0,no,yes,,LatAm,1.0,no,Public,Sometimes,less than 1,91.0
+1888,25.0,Never,no,up to 2,Sometimes,Female,1.51,,1.0,no,yes,1 to 2,LatAm,0.0,no,Public,Sometimes,1 to 2,64.0
+1889,22.0,Never,no,up to 5,Sometimes,Female,1.49,,1.0,no,yes,None,LatAm,0.0,no,Public,Sometimes,1 to 2,
+1890,32.0,Sometimes,yes,up to 2,Sometimes,Male,1.84,,2.0,no,yes,1 to 2,LatAm,0.0,no,Car,Sometimes,more than 2,98.0
+1891,17.0,Sometimes,yes,up to 5,Sometimes,Male,1.8,,3.0,no,,1 to 2,LatAm,3.0,no,Public,Sometimes,more than 2,95.0
+1892,36.0,Never,yes,up to 2,Sometimes,Male,1.69,,1.0,no,yes,1 to 2,LatAm,3.0,no,Car,Sometimes,1 to 2,83.0
+1893,32.0,Sometimes,yes,up to 2,Sometimes,Male,1.83,,3.0,no,yes,1 to 2,LatAm,2.0,no,Car,Sometimes,1 to 2,91.0
+1894,20.0,Never,no,up to 5,Sometimes,Male,1.68,,3.0,no,yes,1 to 2,LatAm,3.0,no,Public,Sometimes,,80.0
+1895,33.0,Never,yes,up to 2,Sometimes,Male,1.69,,2.0,no,yes,1 to 2,LatAm,2.0,no,,Sometimes,1 to 2,84.0
+1896,32.0,Sometimes,yes,up to 5,Sometimes,Male,1.85,,3.0,no,yes,1 to 2,LatAm,1.0,no,Car,Sometimes,more than 2,
+1897,34.0,Never,yes,up to 5,Sometimes,Female,1.68,,2.0,no,yes,1 to 2,LatAm,3.0,no,Car,Always,1 to 2,77.0
+1898,31.0,Sometimes,yes,up to 2,Sometimes,Female,1.56,,2.0,no,yes,None,LatAm,1.0,no,Public,Sometimes,1 to 2,78.0
+1899,42.0,,yes,up to 2,Sometimes,Female,1.58,,3.0,no,yes,None,LatAm,2.0,no,,Sometimes,1 to 2,82.0
+1900,23.0,Sometimes,yes,more than 5,Sometimes,Female,1.61,,1.0,no,yes,None,LatAm,3.0,no,Public,Always,more than 2,83.0
+1901,23.0,Never,yes,up to 2,Sometimes,,1.64,,3.0,no,yes,3 to 4,LatAm,3.0,no,Public,Sometimes,more than 2,84.0
+1902,23.0,Never,yes,up to 5,Sometimes,Male,1.73,,3.0,no,yes,5 or more,LatAm,0.0,no,Public,Sometimes,1 to 2,95.0
+1903,22.0,Never,yes,more than 5,Sometimes,Female,,,1.0,no,yes,1 to 2,LatAm,0.0,no,Public,Always,more than 2,87.0
+1904,18.0,Sometimes,yes,up to 5,Sometimes,Female,1.65,,3.0,no,yes,1 to 2,,2.0,no,Public,Always,less than 1,82.0
+1905,22.0,Never,yes,more than 5,Sometimes,Male,1.71,,3.0,no,yes,5 or more,LatAm,3.0,no,Public,Sometimes,1 to 2,99.0
+1906,21.0,Never,yes,up to 2,Sometimes,Male,1.78,,3.0,,yes,1 to 2,LatAm,0.0,no,Public,Sometimes,1 to 2,103.0
+1907,22.0,Never,yes,up to 5,Sometimes,Male,1.75,,3.0,no,yes,3 to 4,LatAm,3.0,no,Public,Sometimes,more than 2,97.0
+1908,21.0,Never,yes,up to 2,Sometimes,Male,1.78,,3.0,no,,None,LatAm,1.0,no,Public,Sometimes,1 to 2,103.0
+1909,22.0,Sometimes,yes,up to 2,Sometimes,Male,1.77,,3.0,no,yes,1 to 2,LatAm,2.0,no,Public,Sometimes,more than 2,105.0
+1910,38.0,Sometimes,yes,up to 2,Sometimes,Female,1.51,,3.0,no,yes,3 to 4,LatAm,1.0,no,Car,Sometimes,,75.0
+1911,,Never,yes,up to 2,Sometimes,Female,1.61,,3.0,no,yes,1 to 2,LatAm,0.0,no,Public,Sometimes,less than 1,84.0
+1912,21.0,Never,yes,more than 5,Sometimes,Male,1.69,,3.0,no,yes,None,LatAm,0.0,no,Public,Sometimes,1 to 2,96.0
+1913,19.0,Never,yes,more than 5,,Male,1.7,,2.0,no,yes,,LatAm,1.0,no,Public,Sometimes,1 to 2,99.0
+1914,42.0,Never,yes,up to 2,Sometimes,Female,1.65,,2.0,no,yes,None,LatAm,2.0,no,Car,Always,1 to 2,87.0
+1915,23.0,Sometimes,yes,more than 5,Sometimes,Female,1.63,,1.0,no,yes,None,LatAm,3.0,no,Public,Sometimes,1 to 2,82.0
+1916,23.0,Never,yes,up to 5,Sometimes,Male,1.7,,3.0,no,yes,3 to 4,LatAm,3.0,no,Public,Sometimes,1 to 2,95.0
+1917,23.0,Never,yes,up to 5,Sometimes,Male,1.65,,3.0,no,yes,1 to 2,LatAm,2.0,no,Public,Sometimes,more than 2,
+1918,23.0,Never,yes,up to 5,Sometimes,Female,1.63,,3.0,no,yes,1 to 2,LatAm,3.0,no,Public,Sometimes,1 to 2,84.0
+1919,38.0,Sometimes,yes,up to 2,Sometimes,Female,1.56,,3.0,no,yes,None,LatAm,1.0,no,Car,Sometimes,less than 1,80.0
+1920,16.0,Never,yes,up to 5,Sometimes,Female,1.65,,3.0,no,yes,3 to 4,LatAm,3.0,no,Public,,less than 1,86.0
+1921,,Never,yes,up to 2,Sometimes,Male,1.7,,3.0,no,yes,None,LatAm,0.0,no,Public,Sometimes,1 to 2,94.0
+1922,38.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,,3.0,no,yes,None,LatAm,2.0,no,Car,Always,1 to 2,80.0
+1923,32.0,Sometimes,yes,up to 2,Sometimes,Male,1.67,,2.0,no,yes,3 to 4,LatAm,0.0,no,Car,Sometimes,1 to 2,90.0
+1924,23.0,Never,yes,more than 5,Sometimes,Male,1.76,,3.0,no,yes,3 to 4,,0.0,no,Public,Sometimes,more than 2,98.0
+1925,,Never,yes,up to 2,Sometimes,Female,1.61,,3.0,no,yes,3 to 4,LatAm,3.0,no,Public,Sometimes,more than 2,83.0
+1926,41.0,Sometimes,yes,up to 2,Sometimes,Female,1.57,,3.0,no,yes,None,LatAm,1.0,no,Car,Sometimes,1 to 2,81.0
+1927,41.0,Sometimes,yes,up to 2,Sometimes,Female,1.55,,3.0,no,yes,None,LatAm,1.0,no,Car,Sometimes,less than 1,80.0
+1928,29.0,Sometimes,yes,up to 2,Sometimes,Male,1.68,,3.0,no,yes,1 to 2,LatAm,2.0,no,Car,Sometimes,more than 2,90.0
+1929,31.0,Sometimes,yes,up to 2,Sometimes,Male,1.69,,3.0,no,yes,1 to 2,LatAm,3.0,no,Car,Sometimes,more than 2,90.0
+1930,24.0,Never,yes,up to 2,Sometimes,Female,1.59,,1.0,no,yes,1 to 2,LatAm,1.0,no,Public,Sometimes,1 to 2,79.0
+1931,18.0,Never,yes,up to 5,Sometimes,Male,1.72,,3.0,no,yes,3 to 4,LatAm,0.0,no,Public,Sometimes,1 to 2,99.0
+1932,21.0,Sometimes,yes,up to 5,Sometimes,Male,1.86,,3.0,no,yes,1 to 2,LatAm,2.0,no,Public,Sometimes,more than 2,118.0
+1933,22.0,Sometimes,yes,up to 2,Sometimes,Male,1.78,,3.0,no,yes,None,LatAm,2.0,no,Public,Sometimes,1 to 2,105.0
+1934,17.0,Never,,up to 2,Sometimes,Male,1.71,,3.0,no,yes,3 to 4,LatAm,1.0,no,Public,,1 to 2,100.0
+1935,18.0,Never,yes,up to 2,Sometimes,Male,1.78,,2.0,no,yes,1 to 2,LatAm,2.0,no,Public,Sometimes,more than 2,108.0
+1936,18.0,Sometimes,yes,up to 5,Sometimes,Female,1.7,,3.0,no,yes,1 to 2,LatAm,3.0,no,Public,Sometimes,less than 1,91.0
+1937,29.0,Sometimes,yes,up to 2,Sometimes,Male,1.67,,3.0,no,yes,None,LatAm,0.0,no,,Sometimes,less than 1,89.0
+1938,21.0,Never,yes,up to 2,Sometimes,Male,1.8,,3.0,no,yes,5 or more,LatAm,0.0,no,Public,Sometimes,1 to 2,104.0
+1939,26.0,Sometimes,yes,more than 5,Sometimes,Male,1.82,,3.0,no,yes,1 to 2,LatAm,2.0,no,Public,Always,1 to 2,106.0
+1940,40.0,Frequently,yes,up to 5,Sometimes,Male,1.78,,2.0,no,yes,3 to 4,LatAm,,no,Car,Sometimes,more than 2,96.0
+1941,43.0,Never,yes,up to 2,Sometimes,Female,1.57,,1.0,no,yes,1 to 2,LatAm,3.0,no,,Always,1 to 2,82.0
+1942,,Never,yes,up to 2,Sometimes,Female,1.58,,3.0,no,yes,None,LatAm,2.0,no,Car,Sometimes,1 to 2,81.0
+1943,43.0,Never,yes,up to 2,,Female,1.58,,1.0,no,yes,1 to 2,LatAm,1.0,no,Car,Always,1 to 2,82.0
+1944,40.0,Never,yes,up to 2,Sometimes,Female,1.57,,3.0,no,yes,,LatAm,3.0,no,Car,Sometimes,less than 1,80.0
+1945,23.0,Sometimes,yes,more than 5,Sometimes,Female,1.61,,1.0,no,yes,1 to 2,LatAm,3.0,no,Public,Always,more than 2,83.0
+1946,23.0,Never,yes,more than 5,Sometimes,Male,1.73,,3.0,no,yes,3 to 4,LatAm,3.0,no,Public,Sometimes,1 to 2,98.0
+1947,37.0,Sometimes,yes,up to 2,Sometimes,Female,1.52,,3.0,no,yes,1 to 2,LatAm,2.0,no,Car,Sometimes,1 to 2,76.0
+1948,23.0,Never,yes,up to 2,Sometimes,Male,1.72,,3.0,no,yes,3 to 4,LatAm,3.0,no,Public,Sometimes,1 to 2,95.0
+1949,21.0,Never,yes,up to 5,Sometimes,Female,1.64,,1.0,no,yes,,LatAm,0.0,no,Public,Always,more than 2,88.0
+1950,19.0,Never,yes,up to 5,,Female,1.65,,3.0,no,yes,None,LatAm,3.0,no,Public,Always,less than 1,82.0
+1951,26.0,Sometimes,yes,up to 2,Sometimes,Male,1.81,,3.0,no,yes,None,LatAm,0.0,no,,Always,more than 2,108.0
+1952,38.0,Sometimes,yes,up to 2,Sometimes,Female,1.56,,3.0,no,yes,None,LatAm,2.0,no,Car,Sometimes,less than 1,78.0
+1953,30.0,Sometimes,yes,up to 2,,Male,1.68,,2.0,no,yes,3 to 4,LatAm,1.0,no,Car,Sometimes,1 to 2,90.0
+1954,22.0,Never,yes,up to 5,Sometimes,Male,1.67,,3.0,no,yes,None,LatAm,1.0,no,Public,Sometimes,1 to 2,94.0
+1955,37.0,Frequently,yes,up to 5,Sometimes,Male,1.78,,1.0,no,yes,5 or more,LatAm,1.0,no,Car,Always,more than 2,99.0
+1956,39.0,Sometimes,yes,up to 2,Sometimes,Female,1.52,,3.0,no,yes,None,LatAm,0.0,no,,Sometimes,less than 1,80.0
+1957,24.0,Never,,up to 2,Sometimes,Female,1.56,,1.0,no,yes,None,LatAm,3.0,no,Public,Sometimes,1 to 2,81.0
+1958,23.0,Never,yes,up to 2,Sometimes,Female,1.57,,1.0,no,yes,None,LatAm,1.0,no,Public,Sometimes,1 to 2,79.0
+1959,18.0,Sometimes,yes,more than 5,Sometimes,Male,1.86,,2.0,no,yes,1 to 2,LatAm,3.0,no,Public,Sometimes,1 to 2,111.0
+1960,18.0,Sometimes,yes,up to 5,Sometimes,Female,1.68,,3.0,no,yes,1 to 2,LatAm,0.0,no,Public,Sometimes,1 to 2,91.0
+1961,21.0,Sometimes,yes,up to 2,Sometimes,Male,1.78,,3.0,no,yes,None,LatAm,1.0,no,Public,Sometimes,less than 1,105.0
+1962,,Sometimes,yes,up to 5,Sometimes,Female,1.63,,3.0,no,yes,None,LatAm,1.0,no,Public,Always,less than 1,82.0
+1963,37.0,Sometimes,yes,up to 2,Sometimes,Female,1.55,,3.0,no,yes,1 to 2,LatAm,1.0,no,Car,Sometimes,1 to 2,76.0
+1964,44.0,Sometimes,yes,up to 2,Sometimes,Female,1.59,,3.0,no,yes,None,LatAm,3.0,no,Car,Sometimes,more than 2,77.0
+1965,18.0,Never,yes,up to 5,Sometimes,Male,1.78,,3.0,,yes,1 to 2,LatAm,2.0,no,Public,Sometimes,1 to 2,108.0
+1966,21.0,Never,yes,up to 5,Sometimes,Male,1.71,,3.0,no,yes,None,LatAm,2.0,no,Public,Sometimes,1 to 2,95.0
+1967,19.0,Never,yes,up to 5,Sometimes,Female,1.61,,3.0,no,yes,,LatAm,0.0,no,Public,Never,less than 1,82.0
+1968,37.0,Never,yes,up to 2,Sometimes,Male,1.7,,4.0,no,yes,3 to 4,,2.0,no,Public,Always,less than 1,108.0
+1969,30.0,Sometimes,yes,up to 2,Sometimes,Male,1.82,,3.0,no,yes,1 to 2,LatAm,2.0,no,Public,Sometimes,1 to 2,122.0
+1970,34.0,Sometimes,no,up to 2,Sometimes,Male,1.77,,3.0,no,yes,1 to 2,LatAm,2.0,no,Car,Always,1 to 2,120.0
+1971,25.0,Sometimes,yes,up to 2,Sometimes,Male,1.76,,3.0,no,yes,3 to 4,LatAm,2.0,no,Public,Never,1 to 2,112.0
+1972,24.0,Never,yes,up to 5,Sometimes,Male,1.61,,2.0,no,yes,3 to 4,LatAm,0.0,no,Public,Always,less than 1,98.0
+1973,30.0,Sometimes,yes,up to 5,Sometimes,Male,1.76,,3.0,no,yes,None,LatAm,3.0,no,Car,Sometimes,1 to 2,112.0
+1974,29.0,Never,yes,up to 2,Sometimes,Male,1.67,,3.0,no,yes,3 to 4,LatAm,1.0,no,Public,Always,less than 1,99.0
+1975,24.0,Sometimes,yes,up to 5,Sometimes,Male,1.79,,3.0,no,yes,1 to 2,LatAm,0.0,no,Public,,1 to 2,116.0
+1976,31.0,Sometimes,yes,more than 5,Sometimes,Male,1.77,,3.0,no,yes,1 to 2,LatAm,3.0,no,Car,Always,1 to 2,118.0
+1977,29.0,Sometimes,yes,up to 5,Sometimes,Male,1.76,,3.0,no,yes,None,LatAm,2.0,no,Car,Sometimes,1 to 2,114.0
+1978,26.0,Sometimes,yes,up to 2,Sometimes,Male,1.77,,3.0,,yes,1 to 2,LatAm,1.0,no,Public,Sometimes,1 to 2,114.0
+1979,24.0,Sometimes,yes,up to 2,Sometimes,,1.78,,3.0,no,yes,3 to 4,LatAm,3.0,no,Public,Sometimes,1 to 2,121.0
+1980,25.0,Sometimes,yes,up to 2,,Male,1.77,,3.0,no,yes,3 to 4,LatAm,1.0,no,Public,Never,1 to 2,113.0
+1981,26.0,Sometimes,yes,up to 5,Sometimes,Male,1.77,,3.0,no,yes,1 to 2,LatAm,3.0,no,Public,Sometimes,1 to 2,
+1982,25.0,Sometimes,yes,up to 2,Sometimes,Male,1.83,,3.0,no,yes,,LatAm,2.0,no,Public,Never,1 to 2,118.0
+1983,26.0,Never,yes,up to 5,Sometimes,Male,1.67,,1.0,no,yes,None,LatAm,2.0,no,Public,Always,less than 1,104.0
+1984,24.0,Never,yes,up to 5,Sometimes,Male,1.62,,2.0,no,yes,None,LatAm,0.0,no,Public,Always,less than 1,101.0
+1985,25.0,Never,yes,up to 5,Sometimes,Male,,,1.0,no,yes,None,LatAm,0.0,no,Public,Always,1 to 2,105.0
+1986,30.0,Sometimes,yes,up to 2,Sometimes,Male,1.91,,3.0,no,yes,1 to 2,LatAm,1.0,no,Public,Sometimes,1 to 2,129.0
+1987,25.0,Sometimes,yes,up to 5,Sometimes,Male,1.83,,3.0,no,yes,3 to 4,LatAm,0.0,no,Public,Always,more than 2,
+1988,41.0,Never,yes,up to 2,Sometimes,Male,1.75,,3.0,no,yes,1 to 2,LatAm,3.0,no,Car,Sometimes,less than 1,116.0
+1989,30.0,Sometimes,yes,up to 5,Sometimes,Male,1.77,,3.0,no,yes,None,LatAm,1.0,no,Car,Sometimes,1 to 2,112.0
+1990,40.0,Never,yes,up to 2,Sometimes,Male,1.72,,4.0,no,yes,1 to 2,LatAm,3.0,no,Car,Sometimes,less than 1,109.0
+1991,29.0,Sometimes,yes,up to 2,Sometimes,Male,1.91,,3.0,no,yes,1 to 2,LatAm,3.0,no,Public,Sometimes,less than 1,130.0
+1992,27.0,Sometimes,yes,up to 2,Sometimes,Male,1.82,,3.0,no,yes,1 to 2,LatAm,3.0,no,Public,Sometimes,1 to 2,118.0
+1993,32.0,Sometimes,yes,up to 5,Sometimes,Male,1.75,,3.0,no,yes,1 to 2,LatAm,3.0,no,Car,Always,more than 2,120.0
+1994,25.0,Sometimes,yes,up to 2,Sometimes,Male,1.76,,3.0,no,yes,1 to 2,LatAm,0.0,no,Public,Never,1 to 2,112.0
+1995,27.0,Never,yes,up to 5,Sometimes,Male,1.68,,1.0,no,yes,None,LatAm,3.0,no,Public,Always,less than 1,103.0
+1996,30.0,Never,yes,up to 5,Sometimes,Male,1.7,,2.0,no,yes,1 to 2,LatAm,3.0,no,Public,Always,less than 1,100.0
+1997,23.0,,yes,up to 2,Sometimes,Male,,,3.0,no,yes,1 to 2,LatAm,1.0,no,Public,Always,1 to 2,122.0
+1998,23.0,Sometimes,yes,up to 2,Sometimes,Male,1.85,,3.0,no,yes,1 to 2,LatAm,,no,Public,Always,1 to 2,
+1999,24.0,Never,yes,up to 5,Sometimes,Male,1.62,,2.0,no,yes,3 to 4,LatAm,1.0,no,Public,Always,less than 1,99.0
+2000,20.0,Never,yes,up to 5,Sometimes,Male,1.62,,2.0,no,yes,None,LatAm,0.0,no,Public,Always,less than 1,104.0
+2001,28.0,Sometimes,yes,up to 2,Sometimes,Male,1.79,,3.0,no,yes,None,LatAm,1.0,no,Car,Sometimes,1 to 2,112.0
+2002,28.0,Never,yes,up to 2,Sometimes,Male,1.69,,2.0,no,yes,1 to 2,LatAm,3.0,no,Public,Always,less than 1,100.0
+2003,31.0,Sometimes,yes,up to 5,Sometimes,Male,1.76,,3.0,no,yes,None,,0.0,no,Car,Always,1 to 2,118.0
+2004,25.0,Sometimes,yes,up to 2,Sometimes,Male,1.83,,3.0,no,yes,3 to 4,LatAm,2.0,no,Public,Always,more than 2,121.0
+2005,31.0,Sometimes,yes,more than 5,Sometimes,Male,1.76,,3.0,no,yes,None,LatAm,1.0,no,Car,Always,more than 2,119.0
+2006,24.0,Sometimes,yes,up to 5,Sometimes,Male,1.76,,3.0,no,yes,3 to 4,LatAm,3.0,no,Public,,1 to 2,117.0
+2007,,Never,yes,up to 2,Sometimes,Male,1.71,,2.0,no,yes,1 to 2,LatAm,1.0,no,Public,Always,less than 1,103.0
+2008,24.0,Never,yes,more than 5,Sometimes,Male,1.6,,1.0,no,yes,None,LatAm,1.0,no,Public,Always,less than 1,100.0
+2009,29.0,Sometimes,yes,up to 5,Sometimes,Male,1.76,,3.0,no,yes,None,LatAm,0.0,no,Car,Sometimes,1 to 2,114.0
+2010,26.0,Sometimes,yes,,Sometimes,Male,1.79,,3.0,no,yes,1 to 2,LatAm,3.0,no,Public,,1 to 2,115.0
+2011,,Never,yes,up to 2,Sometimes,Male,1.7,,1.0,no,yes,None,LatAm,0.0,no,Public,Always,less than 1,103.0
+2012,31.0,Sometimes,yes,up to 2,Sometimes,Male,1.91,,3.0,,yes,1 to 2,LatAm,2.0,no,Public,Sometimes,less than 1,129.0
+2013,31.0,Sometimes,yes,more than 5,Sometimes,Male,1.77,,3.0,no,yes,1 to 2,LatAm,0.0,no,Car,Sometimes,1 to 2,120.0
+2014,38.0,Sometimes,yes,up to 2,Sometimes,Male,1.75,,3.0,no,yes,None,LatAm,0.0,no,Car,Sometimes,1 to 2,118.0
+2015,28.0,Sometimes,yes,up to 5,Sometimes,Male,1.81,,3.0,no,yes,1 to 2,LatAm,1.0,no,Car,Always,more than 2,119.0
+2016,26.0,Sometimes,yes,up to 2,Sometimes,Male,1.77,,3.0,no,yes,1 to 2,LatAm,3.0,no,Public,Sometimes,1 to 2,114.0
+2017,26.0,Sometimes,yes,up to 5,Sometimes,Male,1.76,,3.0,no,yes,1 to 2,LatAm,2.0,no,,Sometimes,1 to 2,115.0
+2018,26.0,Sometimes,yes,up to 5,Sometimes,Male,1.77,,3.0,no,yes,1 to 2,LatAm,1.0,no,Public,Sometimes,1 to 2,115.0
+2019,30.0,Sometimes,yes,up to 5,Sometimes,Male,1.77,,3.0,no,yes,None,,2.0,no,Car,Sometimes,1 to 2,112.0
+2020,27.0,Sometimes,yes,up to 5,Sometimes,Male,1.83,,3.0,no,yes,1 to 2,LatAm,3.0,no,Public,Always,more than 2,121.0
+2021,23.0,Sometimes,yes,up to 2,Sometimes,Male,1.86,,3.0,no,yes,1 to 2,LatAm,3.0,no,Public,,1 to 2,121.0
+2022,31.0,Sometimes,yes,up to 2,,Male,1.85,,3.0,no,yes,1 to 2,LatAm,0.0,yes,Public,Sometimes,1 to 2,125.0
+2023,25.0,Sometimes,yes,up to 2,Sometimes,Male,1.76,,3.0,no,yes,3 to 4,LatAm,0.0,no,Public,Never,1 to 2,113.0
+2024,25.0,Sometimes,yes,up to 2,Sometimes,Male,1.77,,3.0,no,yes,3 to 4,LatAm,3.0,no,Public,Sometimes,1 to 2,114.0
+2025,25.0,Never,yes,more than 5,Sometimes,Male,1.6,,1.0,no,yes,None,LatAm,1.0,no,Public,Always,less than 1,101.0
+2026,33.0,Never,yes,up to 2,Sometimes,Male,1.7,,2.0,no,yes,3 to 4,LatAm,2.0,no,Public,Always,less than 1,103.0
+2027,23.0,Sometimes,yes,up to 2,Sometimes,Male,1.82,,3.0,no,yes,3 to 4,LatAm,2.0,no,,Always,1 to 2,121.0
+2028,,Never,yes,up to 5,Sometimes,Male,1.61,,2.0,no,yes,1 to 2,LatAm,0.0,no,Public,Always,less than 1,100.0
+2029,31.0,Never,yes,up to 2,Sometimes,Male,1.65,,2.0,no,yes,3 to 4,LatAm,3.0,no,Public,Always,less than 1,101.0
+2030,,Never,yes,up to 5,Sometimes,Male,1.65,,2.0,no,yes,1 to 2,LatAm,0.0,no,Public,Always,less than 1,103.0
+2031,27.0,Never,yes,up to 5,Sometimes,Male,1.69,,1.0,no,yes,None,LatAm,1.0,no,Public,Always,less than 1,103.0
+2032,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.61,,3.0,,yes,None,LatAm,1.0,no,Public,Always,less than 1,102.0
+2033,18.0,Sometimes,yes,up to 5,Sometimes,Female,1.8,,3.0,no,yes,3 to 4,LatAm,1.0,no,Public,Always,1 to 2,150.0
+2034,,Sometimes,yes,up to 2,Sometimes,Female,1.66,,3.0,no,yes,None,LatAm,3.0,no,Public,Always,more than 2,112.0
+2035,22.0,Sometimes,yes,up to 2,Sometimes,Female,1.66,,3.0,no,yes,None,LatAm,2.0,,Public,Always,less than 1,121.0
+2036,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.58,,3.0,no,yes,None,LatAm,3.0,no,Public,Always,more than 2,111.0
+2037,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,,3.0,no,yes,1 to 2,LatAm,0.0,no,Public,Always,more than 2,134.0
+2038,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,,3.0,no,yes,None,LatAm,2.0,no,Public,Always,more than 2,112.0
+2039,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.66,,3.0,no,yes,None,,2.0,no,Public,Always,more than 2,112.0
+2040,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,,3.0,no,yes,None,LatAm,0.0,no,Public,Always,more than 2,112.0
+2041,23.0,Sometimes,yes,up to 5,Sometimes,Female,1.76,,3.0,no,yes,1 to 2,LatAm,0.0,no,Public,Always,more than 2,133.0
+2042,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.76,,3.0,no,yes,1 to 2,LatAm,,no,Public,Always,more than 2,134.0
+2043,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.6,,3.0,no,yes,None,LatAm,0.0,no,Public,Always,more than 2,105.0
+2044,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.63,,3.0,no,yes,None,LatAm,1.0,no,Public,Always,less than 1,105.0
+2045,18.0,Sometimes,yes,up to 5,Sometimes,Female,1.77,,3.0,no,yes,3 to 4,LatAm,1.0,,Public,Always,more than 2,137.0
+2046,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.79,,3.0,no,yes,3 to 4,LatAm,2.0,no,Public,Always,more than 2,138.0
+2047,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,,3.0,no,yes,None,LatAm,3.0,no,Public,Always,more than 2,112.0
+2048,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,,3.0,,yes,1 to 2,LatAm,1.0,no,Public,Always,1 to 2,134.0
+2049,26.0,Sometimes,yes,up to 2,Sometimes,,1.62,,3.0,no,yes,None,LatAm,1.0,no,Public,Always,more than 2,110.0
+2050,21.0,Sometimes,yes,,Sometimes,Female,1.75,,3.0,no,yes,3 to 4,LatAm,0.0,no,Public,Always,1 to 2,
+2051,26.0,Sometimes,yes,up to 2,Sometimes,Female,,,3.0,no,yes,None,,3.0,no,Public,Always,more than 2,112.0
+2052,26.0,Sometimes,yes,up to 2,Sometimes,,1.65,,3.0,no,yes,None,LatAm,3.0,no,Public,Always,more than 2,112.0
+2053,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.72,,3.0,no,yes,1 to 2,LatAm,2.0,no,Public,Always,1 to 2,133.0
+2054,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.78,,3.0,no,yes,3 to 4,LatAm,1.0,no,Public,Always,1 to 2,155.0
+2055,26.0,Sometimes,,up to 2,Sometimes,Female,1.63,,3.0,no,yes,None,LatAm,1.0,no,Public,Always,more than 2,111.0
+2056,18.0,Sometimes,yes,up to 5,,Female,1.75,,3.0,no,yes,3 to 4,LatAm,3.0,no,Public,Always,more than 2,134.0
+2057,,Sometimes,yes,up to 5,Sometimes,Female,1.75,,3.0,no,yes,1 to 2,LatAm,1.0,no,Public,Always,more than 2,134.0
+2058,,Sometimes,yes,up to 5,Sometimes,Female,,,3.0,no,yes,1 to 2,LatAm,1.0,no,Public,Always,more than 2,134.0
+2059,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.64,,3.0,no,yes,None,LatAm,1.0,no,Public,Always,less than 1,105.0
+2060,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.65,,3.0,no,yes,None,LatAm,3.0,no,Public,Always,more than 2,
+2061,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.6,,3.0,no,yes,None,LatAm,3.0,no,Public,Always,more than 2,110.0
+2062,23.0,Sometimes,yes,up to 5,Sometimes,Female,1.68,,3.0,no,yes,None,LatAm,1.0,no,Public,Always,1 to 2,114.0
+2063,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,,3.0,,yes,1 to 2,LatAm,0.0,no,Public,Always,1 to 2,128.0
+2064,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.81,,3.0,no,yes,3 to 4,LatAm,2.0,no,Public,Always,1 to 2,152.0
+2065,26.0,,yes,up to 2,Sometimes,Female,1.64,,3.0,no,yes,None,LatAm,0.0,no,Public,Always,more than 2,112.0
+2066,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,,3.0,no,yes,None,LatAm,3.0,no,Public,Always,more than 2,112.0
+2067,18.0,Sometimes,yes,up to 5,Sometimes,Female,1.81,,3.0,no,yes,3 to 4,LatAm,1.0,no,Public,Always,more than 2,140.0
+2068,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.82,,3.0,no,yes,3 to 4,LatAm,1.0,no,Public,Always,1 to 2,152.0
+2069,18.0,Sometimes,yes,up to 5,Sometimes,Female,1.82,,3.0,no,yes,3 to 4,LatAm,3.0,no,Public,Always,1 to 2,151.0
+2070,,Sometimes,yes,up to 2,,Female,1.65,,3.0,no,yes,,LatAm,2.0,no,Public,Always,more than 2,112.0
+2071,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,,3.0,no,yes,None,LatAm,1.0,no,Public,Always,more than 2,111.0
+2072,25.0,Sometimes,yes,up to 5,Sometimes,Female,1.68,,3.0,no,yes,None,LatAm,3.0,no,Public,Always,1 to 2,105.0
+2073,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.67,,3.0,no,yes,None,LatAm,2.0,no,Public,Always,1 to 2,105.0
+2074,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.71,,3.0,no,yes,3 to 4,LatAm,0.0,no,Public,Always,less than 1,131.0
+2075,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.72,,3.0,no,yes,3 to 4,LatAm,1.0,no,Public,Always,less than 1,131.0
+2076,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.59,,3.0,no,yes,None,,3.0,no,Public,Always,more than 2,111.0
+2077,21.0,,yes,up to 5,Sometimes,Female,1.75,,3.0,no,yes,1 to 2,,2.0,no,Public,Always,more than 2,134.0
+2078,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.78,,3.0,no,yes,3 to 4,LatAm,1.0,no,Public,Always,more than 2,138.0
+2079,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.76,,3.0,no,yes,1 to 2,LatAm,0.0,no,Public,Always,more than 2,134.0
+2080,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,,3.0,no,yes,1 to 2,LatAm,0.0,no,Public,Always,more than 2,134.0
+2081,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,,3.0,no,yes,None,LatAm,1.0,no,Public,Always,more than 2,112.0
+2082,,Sometimes,yes,up to 2,Sometimes,Female,1.64,,3.0,no,yes,None,LatAm,1.0,no,Public,Always,more than 2,112.0
+2083,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,,3.0,,yes,None,LatAm,3.0,no,Public,Always,more than 2,112.0
+2084,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.61,,3.0,no,yes,None,LatAm,1.0,no,Public,Always,more than 2,105.0
+2085,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,,3.0,no,yes,None,LatAm,2.0,no,Public,Always,less than 1,105.0
+2086,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.61,,3.0,no,,None,LatAm,1.0,no,Public,Always,less than 1,105.0
+2087,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.76,,3.0,no,yes,3 to 4,LatAm,3.0,no,Public,Always,more than 2,138.0
+2088,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,,3.0,no,yes,1 to 2,LatAm,0.0,no,Public,Always,1 to 2,143.0
+2089,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,,3.0,no,yes,None,LatAm,1.0,no,Public,Always,more than 2,112.0
+2090,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.61,,3.0,no,yes,None,LatAm,1.0,no,Public,Always,more than 2,105.0
+2091,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,,3.0,no,yes,None,LatAm,2.0,no,Public,Always,1 to 2,110.0
+2092,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.68,,3.0,no,yes,1 to 2,LatAm,0.0,no,Public,Always,less than 1,127.0
+2093,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.69,,3.0,no,yes,1 to 2,LatAm,1.0,no,Public,Always,less than 1,122.0
+2094,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.69,,3.0,no,yes,1 to 2,LatAm,0.0,no,Public,Always,less than 1,123.0
+2095,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,,3.0,no,yes,3 to 4,LatAm,3.0,no,Public,Always,1 to 2,133.0
+2096,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.72,,3.0,no,yes,3 to 4,LatAm,3.0,no,Public,Always,1 to 2,
+2097,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,,3.0,no,yes,None,LatAm,1.0,no,Public,Always,more than 2,111.0
+2098,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,,3.0,no,yes,None,LatAm,1.0,no,Public,Always,more than 2,112.0
+2099,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.72,,3.0,no,yes,3 to 4,LatAm,3.0,no,Public,Always,1 to 2,132.0
+2100,24.0,Sometimes,yes,up to 5,Sometimes,Female,1.68,,3.0,no,yes,None,LatAm,0.0,no,Public,Always,1 to 2,114.0
+2101,24.0,Sometimes,yes,up to 5,Sometimes,Female,1.65,,3.0,no,yes,None,LatAm,0.0,no,Public,Always,more than 2,114.0
+2102,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.81,,3.0,,yes,3 to 4,LatAm,3.0,no,Public,Always,1 to 2,151.0
+2103,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,,3.0,no,yes,1 to 2,LatAm,2.0,no,Public,Always,more than 2,134.0
+2104,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.66,,3.0,no,yes,None,LatAm,3.0,no,Public,Always,more than 2,112.0
+2105,26.0,Sometimes,yes,up to 2,Sometimes,Female,,,3.0,no,yes,None,LatAm,0.0,no,Public,Always,more than 2,112.0
+2106,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,,3.0,no,yes,None,LatAm,1.0,no,Public,Always,more than 2,112.0
+2107,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,,3.0,no,yes,None,LatAm,3.0,no,Public,Always,more than 2,111.0
+2108,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.62,,3.0,no,yes,None,LatAm,3.0,no,Public,Always,1 to 2,105.0
+2109,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,,3.0,no,yes,None,LatAm,1.0,no,Public,Always,1 to 2,108.0
+2110,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,,3.0,no,yes,None,LatAm,0.0,no,Public,Always,more than 2,107.0
+2111,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.71,,3.0,no,yes,3 to 4,LatAm,3.0,no,Public,Always,1 to 2,131.0
