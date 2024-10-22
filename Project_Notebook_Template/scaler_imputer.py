@@ -3,8 +3,8 @@ from sklearn.impute import SimpleImputer, KNNImputer
 import pandas as pd
 import numpy as np
 
-obesity_train_raw = pd.read_csv('data/obesity_train.csv')
-obesity_test_raw = pd.read_csv('data/obesity_test.csv')
+obesity_train_raw = pd.read_csv('../data/obesity_train.csv')
+obesity_test_raw = pd.read_csv('../data/obesity_test.csv')
 
 obesity_test_raw.info()
 obesity_train_raw.info()
@@ -75,3 +75,6 @@ def knn_imputer(data_train, data_val, columns):
 
 obesity_train_knn_imputed, obesity_val_knn_imputed = knn_imputer(obesity_train, obesity_val, dummy_columns)
 obesity_train_knn_imputed.info()
+
+
+simp_imputer(obesity_train, obesity_val, dummy_columns, strategy='most_frequent')
