@@ -20,7 +20,7 @@ def classify_bmi_comprehensive(row):
     """
     # Check if weight and height are valid
     if row['height'] <= 0 or row['weight'] <= 0:
-        raise Exception("X")
+        print(row)
         return 'Invalid data'  
 
     # Calculate BMI
