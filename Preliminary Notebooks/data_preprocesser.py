@@ -49,9 +49,47 @@ def classify_bmi_comprehensive(row):
             return 'Obese'
 
 class preprocesser():
+    config_12 = {
+                    "knn_imputer": ['age', 'weight', 'height'],
+                    "add_bmi": None,
+                    "scaler;standard": ['age', 'weight', 'height'],
+                    "constant_imputer;None": ['physical_activity_perweek'],
+                    "iterative_imputer;KNNclassifier": [
+                                            'alcohol_freq',
+                                            'caloric_freq',
+                                            'devices_perday',
+                                            'eat_between_meals',
+                                            'gender',
+                                            'meals_perday',
+                                            'monitor_calories',
+                                            'parent_overweight',
+                                            'smoke',
+                                            'transportation',
+                                            'veggies_freq',
+                                            'water_daily',
+                                            ],
+                    "encode_data;ordinal": [
+                                            'alcohol_freq',
+                                            'caloric_freq',
+                                            'devices_perday',
+                                            'meals_perday',
+                                            'monitor_calories',
+                                            'parent_overweight',
+                                            'physical_activity_perweek',
+                                            'transportation',
+                                            'veggies_freq',
+                                            'water_daily',
+                                            "bmi_class",
+                                            "eat_between_meals"
+                                            ],
+                    "encode_data;one_hot": [
+                            "gender",
+                            "smoke",
+                                            ]
+                } # Automatically defined configuration, done by doing some experiments
+
     def __init__(self):
         print("Preprocesser loaded")
-        pass
     
     def add_bmi(self, data_train, data_test):
         """
@@ -215,3 +253,43 @@ class preprocesser():
         data_val[columns] = filler.transform(data_val[columns])
 
         return data_train, data_val
+    # Data preprocesser:
+    def run(self, o_train, o_val, configs=config_12):
+        """
+        RUNS THE PREPROCESSER WITH A PREPROCESSING CONFIGURATION (PIPELINE) (literally some if-else statements)
+        """
+        # Preserve original data as preprocesser does everything inplace
+        train = o_train.copy()
+        val = o_val.copy()
+
+        for config in configs:
+            l = config.split(";")
+
+            if len(l) == 1: # Single-argument options only
+                option = l[0]            
+                if option == "knn_imputer":
+                    train, val = self.knn_imputer(train, val, configs[config])
+                
+                if option == "add_bmi":
+                    train, val = self.add_bmi(train, val)
+                
+            if len(l) == 2: # Two options
+                option = l[0]
+                arg = l[1]
+
+                if option == "encode_data":
+                    train, val = self.encode_data(train, val, configs[config], type=arg)
+
+                if option == "simp_imputer":
+                    train, val = self.simp_imputer(train, val, configs[config], strategy=arg)
+                
+                if option == "scaler":
+                    train, val = self.scaler(train, val, configs[config], method=arg)
+                
+                if option == "constant_imputer":
+                    train, val = self.constant_imputer(train, val, configs[config], filling=arg)
+
+                if option == "iterative_imputer":
+                    train, val = self.iterative_imputer(train, val, configs[config], estimator=arg)
+            
+        return train, val 
