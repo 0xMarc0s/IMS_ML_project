@@ -20,8 +20,7 @@ def classify_bmi_comprehensive(row):
     """
     # Check if weight and height are valid
     if row['height'] <= 0 or row['weight'] <= 0:
-        print(row)
-        return 'Invalid data'  
+        return 'Invalid data'
 
     # Calculate BMI
     bmi = row['weight'] / (row['height'] ** 2)
@@ -29,24 +28,28 @@ def classify_bmi_comprehensive(row):
     # Age group: Children (2-19 years)
     if 2 <= row['age'] < 20:
         if bmi < 14:
-            return 'Underweight'
+            return "Underweight"
         elif 14 <= bmi < 18:
-            return 'Normal weight'
+            return "Healthy Weight"
         elif 18 <= bmi < 21:
-            return 'Overweight'
+            return "Overweight"
         else:
-            return 'Obese'
+            return "Obese Class 1"
 
     # Age group: Adults (20-64 years)
     elif 20 <= row['age'] < 65:
         if bmi < 18.5:
-            return 'Underweight'
-        elif 18.5 <= bmi < 24.9:
-            return 'Normal weight'
-        elif 25 <= bmi < 29.9:
-            return 'Overweight'
+            return "Underweight"
+        elif 18.5 <= bmi < 25:
+            return "Healthy Weight"
+        elif 25 <= bmi < 30:
+            return "Overweight"
+        elif 30<= bmi < 35:
+            return "Obese Class 1"
+        elif 35 <= bmi < 40:
+            return "Obese Class 2"
         else:
-            return 'Obese'
+            return "Obese Class 3"
 
 class preprocesser():
     def __init__(self):
