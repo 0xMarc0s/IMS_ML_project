@@ -1,0 +1,143 @@
+
+==================================================
+CONFIGURATION 3
+['scaler;standard', 'iterative_imputer;lr', 'simp_imputer;most_frequent', 'constant_imputer;0', 'encode_data;ordinal']
+
+                     precision    recall  f1-score   support
+
+Insufficient_Weight       0.96      0.93      0.95        75
+      Normal_Weight       0.76      0.83      0.79        70
+     Obesity_Type_I       0.94      0.95      0.94        80
+    Obesity_Type_II       0.97      0.96      0.97        76
+   Obesity_Type_III       0.99      1.00      0.99        75
+ Overweight_Level_I       0.90      0.89      0.89        79
+Overweight_Level_II       0.92      0.87      0.89        75
+
+           accuracy                           0.92       530
+          macro avg       0.92      0.92      0.92       530
+       weighted avg       0.92      0.92      0.92       530
+==================================================
+CONFIGURATION 6
+['add_bmi', 'scaler;standard', 'iterative_imputer;lr', 'simp_imputer;most_frequent', 'constant_imputer;0', 'encode_data;ordinal', 'encode_data;one_hot']
+
+                     precision    recall  f1-score   support
+
+Insufficient_Weight       1.00      0.89      0.94        75
+      Normal_Weight       0.74      0.96      0.84        70
+     Obesity_Type_I       0.93      0.94      0.93        80
+    Obesity_Type_II       0.97      0.96      0.97        76
+   Obesity_Type_III       0.99      1.00      0.99        75
+ Overweight_Level_I       0.91      0.81      0.86        79
+Overweight_Level_II       0.93      0.88      0.90        75
+
+           accuracy                           0.92       530
+          macro avg       0.92      0.92      0.92       530
+       weighted avg       0.93      0.92      0.92       530
+
+==================================================
+CONFIGURATION 7
+['add_bmi', 'scaler;standard', 'iterative_imputer;lr', 'knn_imputer', 'constant_imputer;0']
+
+                     precision    recall  f1-score   support
+
+Insufficient_Weight       0.97      0.89      0.93        75
+      Normal_Weight       0.81      0.89      0.84        70
+     Obesity_Type_I       0.89      0.93      0.91        80
+    Obesity_Type_II       0.97      0.95      0.96        76
+   Obesity_Type_III       0.99      0.97      0.98        75
+ Overweight_Level_I       0.91      0.86      0.88        79
+Overweight_Level_II       0.92      0.96      0.94        75
+
+           accuracy                           0.92       530
+          macro avg       0.92      0.92      0.92       530
+       weighted avg       0.92      0.92      0.92       530
+
+==================================================
+CONFIGURATION 8
+['add_bmi', 'scaler;standard', 'knn_imputer', 'simp_imputer;most_frequent', 'constant_imputer;0', 'encode_data;ordinal', 'encode_data;one_hot']
+
+                     precision    recall  f1-score   support
+
+Insufficient_Weight       0.97      0.89      0.93        75
+      Normal_Weight       0.83      0.90      0.86        70
+     Obesity_Type_I       0.93      0.96      0.94        80
+    Obesity_Type_II       0.99      0.96      0.97        76
+   Obesity_Type_III       0.99      1.00      0.99        75
+ Overweight_Level_I       0.91      0.85      0.88        79
+Overweight_Level_II       0.91      0.95      0.93        75
+
+           accuracy                           0.93       530
+          macro avg       0.93      0.93      0.93       530
+       weighted avg       0.93      0.93      0.93       530
+
+==================================================
+CONFIGURATION 9
+['add_bmi', 'scaler;standard', 'knn_imputer', 'simp_imputer;most_frequent', 'encode_data;ordinal', 'encode_data;one_hot']
+
+                     precision    recall  f1-score   support
+
+Insufficient_Weight       0.97      0.91      0.94        75
+      Normal_Weight       0.84      0.90      0.87        70
+     Obesity_Type_I       0.93      0.95      0.94        80
+    Obesity_Type_II       0.99      0.96      0.97        76
+   Obesity_Type_III       0.99      1.00      0.99        75
+ Overweight_Level_I       0.90      0.87      0.88        79
+Overweight_Level_II       0.91      0.92      0.91        75
+
+           accuracy                           0.93       530
+          macro avg       0.93      0.93      0.93       530
+       weighted avg       0.93      0.93      0.93       530
+
+==================================================
+CONFIGURATION 10
+['knn_imputer', 'add_bmi', 'scaler;standard', 'simp_imputer;most_frequent', 'encode_data;ordinal', 'encode_data;one_hot']
+
+                     precision    recall  f1-score   support
+
+Insufficient_Weight       1.00      0.89      0.94        75
+      Normal_Weight       0.84      0.94      0.89        70
+     Obesity_Type_I       0.94      0.96      0.95        80
+    Obesity_Type_II       0.99      0.97      0.98        76
+   Obesity_Type_III       0.99      1.00      0.99        75
+ Overweight_Level_I       0.92      0.89      0.90        79
+Overweight_Level_II       0.92      0.92      0.92        75
+
+           accuracy                           0.94       530
+          macro avg       0.94      0.94      0.94       530
+       weighted avg       0.94      0.94      0.94       530
+
+==================================================
+CONFIGURATION 11
+['knn_imputer', 'add_bmi', 'scaler;standard', 'iterative_imputer;KNNclassifier', 'encode_data;ordinal', 'encode_data;one_hot']
+
+                     precision    recall  f1-score   support
+
+Insufficient_Weight       1.00      0.88      0.94        75
+      Normal_Weight       0.83      0.96      0.89        70
+     Obesity_Type_I       0.93      0.96      0.94        80
+    Obesity_Type_II       0.99      0.96      0.97        76
+   Obesity_Type_III       0.99      1.00      0.99        75
+ Overweight_Level_I       0.93      0.89      0.91        79
+Overweight_Level_II       0.93      0.93      0.93        75
+
+           accuracy                           0.94       530
+          macro avg       0.94      0.94      0.94       530
+       weighted avg       0.94      0.94      0.94       530
+
+==================================================
+CONFIGURATION 12
+['knn_imputer', 'add_bmi', 'scaler;standard', 'constant_imputer;None', 'iterative_imputer;KNNclassifier', 'encode_data;ordinal', 'encode_data;one_hot']
+
+                     precision    recall  f1-score   support
+
+Insufficient_Weight       1.00      0.88      0.94        75
+      Normal_Weight       0.82      0.94      0.88        70
+     Obesity_Type_I       0.94      0.97      0.96        80
+    Obesity_Type_II       0.99      0.97      0.98        76
+   Obesity_Type_III       0.99      1.00      0.99        75
+ Overweight_Level_I       0.95      0.89      0.92        79
+Overweight_Level_II       0.95      0.96      0.95        75
+
+           accuracy                           0.95       530
+          macro avg       0.95      0.95      0.95       530
+       weighted avg       0.95      0.95      0.95       530
