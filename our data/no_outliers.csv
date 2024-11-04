@@ -1448,159 +1448,157 @@
 1446,23.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,1 to 2,1.0,no,Public,Always,more than 2,133.0,Obesity_Type_III
 1447,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.57,3.0,no,yes,,1.0,no,Public,Always,less than 1,102.0,Obesity_Type_III
 1448,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.58,3.0,no,yes,,2.0,no,Public,Always,less than 1,102.0,Obesity_Type_III
-1449,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.79,3.0,no,yes,3 to 4,1.0,no,Public,Always,1 to 2,161.0,Obesity_Type_III
-1450,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.66,3.0,,yes,,2.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
-1451,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.66,3.0,no,yes,,0.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
-1452,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.68,3.0,,yes,,1.0,no,Public,Always,less than 1,105.0,Obesity_Type_III
-1453,,Sometimes,yes,up to 5,Sometimes,Female,1.68,3.0,no,yes,,1.0,no,Public,Always,less than 1,105.0,Obesity_Type_III
-1454,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.72,3.0,no,yes,1 to 2,3.0,no,Public,Always,less than 1,128.0,Obesity_Type_III
-1455,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.68,3.0,no,yes,1 to 2,1.0,no,Public,Always,less than 1,125.0,Obesity_Type_III
-1456,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,3.0,no,yes,,1.0,no,Public,Always,more than 2,111.0,Obesity_Type_III
-1457,22.0,Sometimes,yes,,Sometimes,Female,1.75,3.0,no,yes,3 to 4,1.0,no,Public,Always,,137.0,Obesity_Type_III
-1458,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.78,3.0,no,yes,3 to 4,1.0,no,Public,Always,more than 2,138.0,Obesity_Type_III
-1459,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.81,3.0,no,yes,,2.0,no,Public,Always,1 to 2,152.0,Obesity_Type_III
-1460,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.8,3.0,no,yes,,0.0,no,Public,Always,1 to 2,161.0,Obesity_Type_III
-1461,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,3.0,no,yes,,0.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
-1462,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,3.0,no,yes,,3.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
-1463,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.62,3.0,no,yes,,1.0,no,Public,Always,more than 2,105.0,Obesity_Type_III
-1464,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,3.0,,yes,,3.0,no,Public,Always,more than 2,105.0,Obesity_Type_III
-1465,,Sometimes,yes,up to 5,Sometimes,Female,1.76,3.0,no,yes,1 to 2,3.0,no,Public,Always,1 to 2,134.0,Obesity_Type_III
-1466,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.61,3.0,no,yes,,3.0,,Public,,less than 1,102.0,Obesity_Type_III
-1467,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.61,3.0,no,yes,,3.0,no,Public,Always,less than 1,102.0,Obesity_Type_III
-1468,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.62,3.0,no,yes,,0.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
-1469,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.8,3.0,no,yes,1 to 2,0.0,no,Public,Always,more than 2,138.0,Obesity_Type_III
-1470,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.79,3.0,no,yes,3 to 4,0.0,no,Public,Always,more than 2,138.0,Obesity_Type_III
-1471,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.8,3.0,no,yes,3 to 4,0.0,no,Public,Always,1 to 2,151.0,Obesity_Type_III
-1472,,Sometimes,yes,up to 5,Sometimes,Female,1.81,3.0,no,yes,3 to 4,0.0,no,Public,Always,1 to 2,153.0,Obesity_Type_III
-1473,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.65,3.0,no,yes,,1.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
-1474,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.66,3.0,no,yes,,3.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
-1475,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.63,3.0,no,yes,,2.0,no,Public,Always,less than 1,105.0,Obesity_Type_III
-1476,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.67,3.0,no,yes,,3.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
-1477,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.64,3.0,no,yes,,2.0,,Public,Always,less than 1,105.0,Obesity_Type_III
-1478,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.66,3.0,no,yes,,3.0,no,Public,Always,1 to 2,110.0,Obesity_Type_III
-1479,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,3.0,no,yes,,2.0,no,Public,Always,1 to 2,110.0,Obesity_Type_III
-1480,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.68,3.0,no,yes,1 to 2,0.0,no,Public,Always,less than 1,122.0,Obesity_Type_III
-1481,23.0,Sometimes,yes,up to 5,Sometimes,Female,1.66,3.0,no,yes,,1.0,no,,Always,1 to 2,121.0,Obesity_Type_III
-1482,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.71,3.0,no,yes,3 to 4,1.0,no,Public,Always,less than 1,134.0,Obesity_Type_III
-1483,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.72,3.0,no,yes,3 to 4,1.0,no,Public,Always,1 to 2,134.0,Obesity_Type_III
-1484,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,3.0,no,yes,,0.0,no,Public,Always,more than 2,110.0,Obesity_Type_III
-1485,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,3.0,no,yes,,0.0,no,Public,Always,more than 2,110.0,Obesity_Type_III
-1486,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,3.0,no,yes,,0.0,no,Public,Always,more than 2,111.0,Obesity_Type_III
-1487,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.73,3.0,no,yes,3 to 4,1.0,no,Public,Always,less than 1,132.0,Obesity_Type_III
-1488,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.73,3.0,no,yes,3 to 4,3.0,no,Public,Always,less than 1,132.0,Obesity_Type_III
-1489,24.0,Sometimes,yes,up to 5,Sometimes,Female,1.64,3.0,no,yes,,2.0,no,Public,Always,1 to 2,114.0,Obesity_Type_III
-1490,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,1 to 2,1.0,no,Public,Always,1 to 2,129.0,Obesity_Type_III
-1491,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.79,3.0,no,yes,1 to 2,2.0,no,Public,Always,1 to 2,152.0,Obesity_Type_III
-1492,19.0,Sometimes,,up to 5,Sometimes,Female,1.74,3.0,no,yes,1 to 2,2.0,no,Public,Always,more than 2,133.0,Obesity_Type_III
-1493,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,1 to 2,2.0,no,Public,Always,more than 2,134.0,Obesity_Type_III
-1494,24.0,Sometimes,yes,up to 2,Sometimes,Female,1.71,3.0,no,yes,,2.0,no,Public,Always,more than 2,113.0,Obesity_Type_III
-1495,25.0,Sometimes,yes,up to 2,Sometimes,Female,1.69,3.0,no,yes,,1.0,no,Public,Always,more than 2,113.0,Obesity_Type_III
-1496,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.65,3.0,no,yes,,3.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
-1497,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,3.0,no,yes,,1.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
-1498,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.63,3.0,no,yes,,2.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
-1499,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.65,3.0,no,yes,,3.0,no,Public,Always,more than 2,105.0,Obesity_Type_III
-1500,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.61,3.0,no,yes,,2.0,no,Public,Always,more than 2,107.0,Obesity_Type_III
-1501,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,3.0,no,yes,,3.0,no,Public,Always,more than 2,107.0,Obesity_Type_III
-1502,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.73,3.0,no,yes,1 to 2,1.0,no,Public,Always,1 to 2,132.0,Obesity_Type_III
-1503,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.72,3.0,no,yes,3 to 4,3.0,no,Public,Always,1 to 2,131.0,Obesity_Type_III
-1504,24.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,1 to 2,2.0,no,Public,Always,more than 2,133.0,Obesity_Type_III
-1505,24.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,1 to 2,2.0,no,Public,Always,more than 2,133.0,Obesity_Type_III
-1506,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.62,3.0,no,yes,,2.0,no,Public,Always,less than 1,102.0,Obesity_Type_III
-1507,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.64,3.0,no,yes,,3.0,no,Public,Always,less than 1,102.0,Obesity_Type_III
-1508,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.59,3.0,no,yes,,3.0,no,,Always,less than 1,103.0,Obesity_Type_III
-1509,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.61,3.0,no,yes,,3.0,no,Public,Always,less than 1,102.0,Obesity_Type_III
-1510,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.82,3.0,no,yes,3 to 4,2.0,no,Public,Always,more than 2,142.0,Obesity_Type_III
-1511,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.66,3.0,no,yes,,1.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
-1512,,Sometimes,yes,up to 2,Sometimes,Female,1.64,3.0,no,yes,,1.0,no,Public,Always,more than 2,111.0,Obesity_Type_III
-1513,25.0,Sometimes,yes,up to 5,,Female,1.67,3.0,no,yes,,2.0,no,Public,Always,less than 1,105.0,Obesity_Type_III
-1514,26.0,Sometimes,yes,up to 5,,Female,1.67,3.0,no,yes,,3.0,no,Public,Always,less than 1,105.0,Obesity_Type_III
-1515,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.7,3.0,no,yes,1 to 2,2.0,no,Public,Always,less than 1,126.0,Obesity_Type_III
-1516,21.0,Sometimes,yes,,Sometimes,Female,1.73,3.0,no,yes,1 to 2,3.0,no,Public,Always,1 to 2,125.0,Obesity_Type_III
-1517,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,3.0,no,yes,,2.0,no,Public,Always,more than 2,111.0,Obesity_Type_III
-1518,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,3.0,no,yes,,0.0,no,Public,Always,more than 2,111.0,Obesity_Type_III
-1519,,Sometimes,yes,up to 2,Sometimes,Female,1.62,3.0,no,yes,,0.0,no,Public,Always,more than 2,111.0,Obesity_Type_III
-1520,22.0,Sometimes,yes,up to 5,Sometimes,,1.73,3.0,no,yes,3 to 4,1.0,no,Public,Always,less than 1,135.0,Obesity_Type_III
-1521,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,3 to 4,0.0,no,Public,Always,more than 2,135.0,Obesity_Type_III
-1522,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,3 to 4,0.0,no,Public,Always,1 to 2,134.0,Obesity_Type_III
-1523,,,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,1 to 2,1.0,no,Public,Always,1 to 2,136.0,Obesity_Type_III
-1524,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.82,3.0,no,yes,3 to 4,1.0,no,Public,Always,1 to 2,154.0,Obesity_Type_III
-1525,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.8,,no,yes,,2.0,no,Public,Always,1 to 2,155.0,Obesity_Type_III
-1526,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,3 to 4,2.0,no,Public,Always,more than 2,134.0,Obesity_Type_III
-1527,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.76,3.0,no,yes,,0.0,no,Public,Always,more than 2,134.0,Obesity_Type_III
-1528,26.0,Sometimes,,up to 2,Sometimes,Female,1.63,3.0,no,yes,,2.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
-1529,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.64,3.0,no,yes,,3.0,no,Public,Always,more than 2,105.0,Obesity_Type_III
-1530,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,3.0,no,yes,,2.0,no,Public,Always,more than 2,105.0,Obesity_Type_III
-1531,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.61,3.0,no,yes,,2.0,no,Public,Always,less than 1,105.0,Obesity_Type_III
-1532,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.62,3.0,no,yes,,0.0,no,,Always,less than 1,105.0,Obesity_Type_III
-1533,23.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,1 to 2,3.0,no,,Always,more than 2,133.0,Obesity_Type_III
-1534,23.0,Sometimes,yes,up to 5,Sometimes,Female,1.76,3.0,no,yes,1 to 2,0.0,no,Public,Always,more than 2,133.0,Obesity_Type_III
-1535,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,1 to 2,0.0,no,Public,Always,more than 2,134.0,Obesity_Type_III
-1536,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,,1.0,no,Public,Always,more than 2,134.0,Obesity_Type_III
-1537,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.61,3.0,no,yes,,0.0,no,Public,Always,less than 1,102.0,Obesity_Type_III
-1538,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.6,3.0,no,yes,,2.0,no,Public,Always,less than 1,102.0,Obesity_Type_III
-1539,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.61,3.0,no,yes,,2.0,no,Public,Always,less than 1,103.0,Obesity_Type_III
-1540,26.0,Sometimes,yes,up to 5,,Female,1.62,3.0,no,yes,,1.0,no,Public,Always,less than 1,103.0,Obesity_Type_III
-1541,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.62,3.0,,yes,,3.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
-1542,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.79,3.0,no,yes,1 to 2,1.0,no,Public,Always,more than 2,138.0,Obesity_Type_III
-1543,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.77,3.0,no,yes,3 to 4,3.0,no,Public,Always,more than 2,138.0,Obesity_Type_III
-1544,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.79,3.0,no,yes,1 to 2,1.0,no,Public,Always,more than 2,138.0,Obesity_Type_III
-1545,18.0,Sometimes,yes,up to 5,Sometimes,Female,1.81,3.0,no,yes,3 to 4,1.0,no,Public,Always,1 to 2,,Obesity_Type_III
-1546,20.0,Sometimes,yes,up to 5,,Female,1.81,3.0,no,yes,1 to 2,0.0,no,Public,Always,1 to 2,153.0,Obesity_Type_III
-1547,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.8,3.0,no,yes,1 to 2,3.0,no,Public,Always,1 to 2,152.0,Obesity_Type_III
-1548,26.0,Sometimes,yes,up to 2,,Female,1.63,3.0,no,yes,,0.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
-1549,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,3.0,no,yes,,0.0,no,Public,,more than 2,112.0,Obesity_Type_III
-1550,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,3.0,no,yes,,3.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
-1551,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,3.0,no,yes,,2.0,no,Public,Always,more than 2,105.0,Obesity_Type_III
-1552,,Sometimes,yes,up to 5,Sometimes,Female,1.64,3.0,no,yes,,2.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
-1553,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.61,3.0,no,yes,,0.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
-1554,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.63,3.0,no,yes,,2.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
-1555,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.63,3.0,no,yes,,1.0,no,Public,Always,more than 2,105.0,Obesity_Type_III
-1556,25.0,Sometimes,yes,up to 5,Sometimes,Female,1.68,3.0,no,yes,,2.0,no,Public,Always,less than 1,105.0,Obesity_Type_III
-1557,25.0,Sometimes,yes,up to 5,Sometimes,Female,1.69,3.0,no,yes,,2.0,no,,Always,,105.0,Obesity_Type_III
-1558,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.66,3.0,no,yes,,3.0,no,Public,Always,1 to 2,111.0,Obesity_Type_III
-1559,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.68,3.0,no,yes,,3.0,no,Public,Always,less than 1,111.0,Obesity_Type_III
-1560,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,3.0,no,yes,,2.0,no,Public,Always,1 to 2,110.0,Obesity_Type_III
-1561,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.67,3.0,no,yes,1 to 2,3.0,no,Public,Always,less than 1,126.0,Obesity_Type_III
-1562,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.76,3.0,no,yes,1 to 2,2.0,no,Public,Always,1 to 2,134.0,Obesity_Type_III
-1563,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.72,3.0,no,yes,3 to 4,3.0,no,Public,Always,1 to 2,132.0,Obesity_Type_III
-1564,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,3.0,no,yes,,1.0,no,Public,Always,1 to 2,110.0,Obesity_Type_III
-1565,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,3.0,no,yes,,3.0,no,Public,Always,more than 2,110.0,Obesity_Type_III
-1566,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,3.0,no,yes,,0.0,no,Public,Always,more than 2,111.0,Obesity_Type_III
-1567,26.0,Sometimes,yes,up to 2,Sometimes,,1.63,3.0,no,yes,,0.0,no,Public,Always,1 to 2,111.0,Obesity_Type_III
-1568,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,3.0,no,yes,,3.0,no,Public,Always,1 to 2,110.0,Obesity_Type_III
-1569,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.59,3.0,no,yes,,2.0,no,Public,Always,1 to 2,110.0,Obesity_Type_III
-1570,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.73,3.0,no,yes,3 to 4,0.0,no,Public,Always,1 to 2,132.0,Obesity_Type_III
-1571,22.0,Sometimes,,up to 5,Sometimes,Female,1.72,3.0,no,yes,3 to 4,2.0,no,Public,Always,1 to 2,132.0,Obesity_Type_III
-1572,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.7,3.0,no,yes,3 to 4,2.0,no,Public,Always,1 to 2,133.0,Obesity_Type_III
-1573,24.0,Sometimes,yes,up to 5,Sometimes,Female,1.7,3.0,no,yes,,2.0,no,Public,Always,more than 2,114.0,Obesity_Type_III
-1574,25.0,Sometimes,yes,up to 2,Sometimes,Female,1.67,3.0,no,yes,,0.0,no,Public,Always,more than 2,113.0,Obesity_Type_III
-1575,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,1 to 2,0.0,no,Public,Always,1 to 2,129.0,Obesity_Type_III
-1576,18.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,3 to 4,0.0,no,Public,Always,1 to 2,127.0,Obesity_Type_III
-1577,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,1 to 2,1.0,no,Public,Always,1 to 2,128.0,Obesity_Type_III
-1578,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.72,3.0,no,yes,1 to 2,0.0,no,Public,Always,1 to 2,129.0,Obesity_Type_III
-1579,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,1 to 2,3.0,no,Public,Always,1 to 2,147.0,Obesity_Type_III
-1580,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.82,3.0,no,yes,3 to 4,3.0,no,Public,Always,more than 2,143.0,Obesity_Type_III
-1581,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,3 to 4,0.0,no,Public,Always,1 to 2,150.0,Obesity_Type_III
-1582,18.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,3 to 4,1.0,no,Public,Always,1 to 2,133.0,Obesity_Type_III
-1583,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,1 to 2,0.0,no,Public,Always,more than 2,134.0,Obesity_Type_III
-1584,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,1 to 2,3.0,no,Public,Always,more than 2,134.0,Obesity_Type_III
-1585,24.0,Sometimes,yes,up to 2,Sometimes,Female,,3.0,no,yes,,1.0,no,Public,Always,more than 2,113.0,Obesity_Type_III
-1586,25.0,Sometimes,yes,up to 2,Sometimes,Female,1.67,3.0,no,yes,,0.0,no,Public,Always,more than 2,113.0,Obesity_Type_III
-1587,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.67,3.0,no,yes,,1.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
-1588,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,3.0,no,yes,,0.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
-1589,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,3.0,no,yes,,3.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
-1590,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,3.0,no,yes,,2.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
-1591,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.65,3.0,no,yes,,3.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
-1592,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,3.0,no,yes,,0.0,no,Public,Always,more than 2,,Obesity_Type_III
-1593,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.63,3.0,no,yes,,1.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
-1594,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.63,3.0,no,yes,,1.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
-1595,26.0,Sometimes,yes,up to 5,,Female,1.61,3.0,no,yes,,1.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
-1596,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,3.0,no,yes,,3.0,no,Public,Always,1 to 2,107.0,Obesity_Type_III
-1597,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,3.0,no,yes,,2.0,no,Public,Always,1 to 2,108.0,Obesity_Type_III
-1598,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.72,3.0,no,yes,3 to 4,2.0,no,Public,,1 to 2,133.0,Obesity_Type_III
-1599,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.73,3.0,no,yes,3 to 4,2.0,no,Public,Always,1 to 2,133.0,Obesity_Type_III
-1600,21.0,Sometimes,,up to 5,Sometimes,Female,1.73,3.0,no,yes,3 to 4,1.0,no,Public,Always,1 to 2,131.0,Obesity_Type_III
-1601,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,1 to 2,0.0,no,,Always,1 to 2,134.0,Obesity_Type_III
-1602,23.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,1 to 2,0.0,no,Public,Always,1 to 2,134.0,Obesity_Type_III
-1603,24.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,1 to 2,0.0,no,Public,Always,more than 2,133.0,Obesity_Type_III
-1604,24.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,1 to 2,0.0,no,Public,Always,more than 2,133.0,Obesity_Type_III
+1449,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.66,3.0,,yes,,2.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
+1450,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.66,3.0,no,yes,,0.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
+1451,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.68,3.0,,yes,,1.0,no,Public,Always,less than 1,105.0,Obesity_Type_III
+1452,,Sometimes,yes,up to 5,Sometimes,Female,1.68,3.0,no,yes,,1.0,no,Public,Always,less than 1,105.0,Obesity_Type_III
+1453,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.72,3.0,no,yes,1 to 2,3.0,no,Public,Always,less than 1,128.0,Obesity_Type_III
+1454,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.68,3.0,no,yes,1 to 2,1.0,no,Public,Always,less than 1,125.0,Obesity_Type_III
+1455,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,3.0,no,yes,,1.0,no,Public,Always,more than 2,111.0,Obesity_Type_III
+1456,22.0,Sometimes,yes,,Sometimes,Female,1.75,3.0,no,yes,3 to 4,1.0,no,Public,Always,,137.0,Obesity_Type_III
+1457,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.78,3.0,no,yes,3 to 4,1.0,no,Public,Always,more than 2,138.0,Obesity_Type_III
+1458,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.81,3.0,no,yes,,2.0,no,Public,Always,1 to 2,152.0,Obesity_Type_III
+1459,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,3.0,no,yes,,0.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
+1460,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,3.0,no,yes,,3.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
+1461,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.62,3.0,no,yes,,1.0,no,Public,Always,more than 2,105.0,Obesity_Type_III
+1462,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,3.0,,yes,,3.0,no,Public,Always,more than 2,105.0,Obesity_Type_III
+1463,,Sometimes,yes,up to 5,Sometimes,Female,1.76,3.0,no,yes,1 to 2,3.0,no,Public,Always,1 to 2,134.0,Obesity_Type_III
+1464,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.61,3.0,no,yes,,3.0,,Public,,less than 1,102.0,Obesity_Type_III
+1465,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.61,3.0,no,yes,,3.0,no,Public,Always,less than 1,102.0,Obesity_Type_III
+1466,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.62,3.0,no,yes,,0.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
+1467,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.8,3.0,no,yes,1 to 2,0.0,no,Public,Always,more than 2,138.0,Obesity_Type_III
+1468,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.79,3.0,no,yes,3 to 4,0.0,no,Public,Always,more than 2,138.0,Obesity_Type_III
+1469,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.8,3.0,no,yes,3 to 4,0.0,no,Public,Always,1 to 2,151.0,Obesity_Type_III
+1470,,Sometimes,yes,up to 5,Sometimes,Female,1.81,3.0,no,yes,3 to 4,0.0,no,Public,Always,1 to 2,153.0,Obesity_Type_III
+1471,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.65,3.0,no,yes,,1.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
+1472,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.66,3.0,no,yes,,3.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
+1473,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.63,3.0,no,yes,,2.0,no,Public,Always,less than 1,105.0,Obesity_Type_III
+1474,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.67,3.0,no,yes,,3.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
+1475,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.64,3.0,no,yes,,2.0,,Public,Always,less than 1,105.0,Obesity_Type_III
+1476,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.66,3.0,no,yes,,3.0,no,Public,Always,1 to 2,110.0,Obesity_Type_III
+1477,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,3.0,no,yes,,2.0,no,Public,Always,1 to 2,110.0,Obesity_Type_III
+1478,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.68,3.0,no,yes,1 to 2,0.0,no,Public,Always,less than 1,122.0,Obesity_Type_III
+1479,23.0,Sometimes,yes,up to 5,Sometimes,Female,1.66,3.0,no,yes,,1.0,no,,Always,1 to 2,121.0,Obesity_Type_III
+1480,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.71,3.0,no,yes,3 to 4,1.0,no,Public,Always,less than 1,134.0,Obesity_Type_III
+1481,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.72,3.0,no,yes,3 to 4,1.0,no,Public,Always,1 to 2,134.0,Obesity_Type_III
+1482,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,3.0,no,yes,,0.0,no,Public,Always,more than 2,110.0,Obesity_Type_III
+1483,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,3.0,no,yes,,0.0,no,Public,Always,more than 2,110.0,Obesity_Type_III
+1484,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,3.0,no,yes,,0.0,no,Public,Always,more than 2,111.0,Obesity_Type_III
+1485,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.73,3.0,no,yes,3 to 4,1.0,no,Public,Always,less than 1,132.0,Obesity_Type_III
+1486,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.73,3.0,no,yes,3 to 4,3.0,no,Public,Always,less than 1,132.0,Obesity_Type_III
+1487,24.0,Sometimes,yes,up to 5,Sometimes,Female,1.64,3.0,no,yes,,2.0,no,Public,Always,1 to 2,114.0,Obesity_Type_III
+1488,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,1 to 2,1.0,no,Public,Always,1 to 2,129.0,Obesity_Type_III
+1489,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.79,3.0,no,yes,1 to 2,2.0,no,Public,Always,1 to 2,152.0,Obesity_Type_III
+1490,19.0,Sometimes,,up to 5,Sometimes,Female,1.74,3.0,no,yes,1 to 2,2.0,no,Public,Always,more than 2,133.0,Obesity_Type_III
+1491,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,1 to 2,2.0,no,Public,Always,more than 2,134.0,Obesity_Type_III
+1492,24.0,Sometimes,yes,up to 2,Sometimes,Female,1.71,3.0,no,yes,,2.0,no,Public,Always,more than 2,113.0,Obesity_Type_III
+1493,25.0,Sometimes,yes,up to 2,Sometimes,Female,1.69,3.0,no,yes,,1.0,no,Public,Always,more than 2,113.0,Obesity_Type_III
+1494,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.65,3.0,no,yes,,3.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
+1495,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,3.0,no,yes,,1.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
+1496,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.63,3.0,no,yes,,2.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
+1497,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.65,3.0,no,yes,,3.0,no,Public,Always,more than 2,105.0,Obesity_Type_III
+1498,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.61,3.0,no,yes,,2.0,no,Public,Always,more than 2,107.0,Obesity_Type_III
+1499,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,3.0,no,yes,,3.0,no,Public,Always,more than 2,107.0,Obesity_Type_III
+1500,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.73,3.0,no,yes,1 to 2,1.0,no,Public,Always,1 to 2,132.0,Obesity_Type_III
+1501,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.72,3.0,no,yes,3 to 4,3.0,no,Public,Always,1 to 2,131.0,Obesity_Type_III
+1502,24.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,1 to 2,2.0,no,Public,Always,more than 2,133.0,Obesity_Type_III
+1503,24.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,1 to 2,2.0,no,Public,Always,more than 2,133.0,Obesity_Type_III
+1504,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.62,3.0,no,yes,,2.0,no,Public,Always,less than 1,102.0,Obesity_Type_III
+1505,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.64,3.0,no,yes,,3.0,no,Public,Always,less than 1,102.0,Obesity_Type_III
+1506,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.59,3.0,no,yes,,3.0,no,,Always,less than 1,103.0,Obesity_Type_III
+1507,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.61,3.0,no,yes,,3.0,no,Public,Always,less than 1,102.0,Obesity_Type_III
+1508,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.82,3.0,no,yes,3 to 4,2.0,no,Public,Always,more than 2,142.0,Obesity_Type_III
+1509,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.66,3.0,no,yes,,1.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
+1510,,Sometimes,yes,up to 2,Sometimes,Female,1.64,3.0,no,yes,,1.0,no,Public,Always,more than 2,111.0,Obesity_Type_III
+1511,25.0,Sometimes,yes,up to 5,,Female,1.67,3.0,no,yes,,2.0,no,Public,Always,less than 1,105.0,Obesity_Type_III
+1512,26.0,Sometimes,yes,up to 5,,Female,1.67,3.0,no,yes,,3.0,no,Public,Always,less than 1,105.0,Obesity_Type_III
+1513,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.7,3.0,no,yes,1 to 2,2.0,no,Public,Always,less than 1,126.0,Obesity_Type_III
+1514,21.0,Sometimes,yes,,Sometimes,Female,1.73,3.0,no,yes,1 to 2,3.0,no,Public,Always,1 to 2,125.0,Obesity_Type_III
+1515,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,3.0,no,yes,,2.0,no,Public,Always,more than 2,111.0,Obesity_Type_III
+1516,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,3.0,no,yes,,0.0,no,Public,Always,more than 2,111.0,Obesity_Type_III
+1517,,Sometimes,yes,up to 2,Sometimes,Female,1.62,3.0,no,yes,,0.0,no,Public,Always,more than 2,111.0,Obesity_Type_III
+1518,22.0,Sometimes,yes,up to 5,Sometimes,,1.73,3.0,no,yes,3 to 4,1.0,no,Public,Always,less than 1,135.0,Obesity_Type_III
+1519,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,3 to 4,0.0,no,Public,Always,more than 2,135.0,Obesity_Type_III
+1520,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,3 to 4,0.0,no,Public,Always,1 to 2,134.0,Obesity_Type_III
+1521,,,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,1 to 2,1.0,no,Public,Always,1 to 2,136.0,Obesity_Type_III
+1522,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.82,3.0,no,yes,3 to 4,1.0,no,Public,Always,1 to 2,154.0,Obesity_Type_III
+1523,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.8,,no,yes,,2.0,no,Public,Always,1 to 2,155.0,Obesity_Type_III
+1524,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,3 to 4,2.0,no,Public,Always,more than 2,134.0,Obesity_Type_III
+1525,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.76,3.0,no,yes,,0.0,no,Public,Always,more than 2,134.0,Obesity_Type_III
+1526,26.0,Sometimes,,up to 2,Sometimes,Female,1.63,3.0,no,yes,,2.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
+1527,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.64,3.0,no,yes,,3.0,no,Public,Always,more than 2,105.0,Obesity_Type_III
+1528,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,3.0,no,yes,,2.0,no,Public,Always,more than 2,105.0,Obesity_Type_III
+1529,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.61,3.0,no,yes,,2.0,no,Public,Always,less than 1,105.0,Obesity_Type_III
+1530,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.62,3.0,no,yes,,0.0,no,,Always,less than 1,105.0,Obesity_Type_III
+1531,23.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,1 to 2,3.0,no,,Always,more than 2,133.0,Obesity_Type_III
+1532,23.0,Sometimes,yes,up to 5,Sometimes,Female,1.76,3.0,no,yes,1 to 2,0.0,no,Public,Always,more than 2,133.0,Obesity_Type_III
+1533,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,1 to 2,0.0,no,Public,Always,more than 2,134.0,Obesity_Type_III
+1534,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,,1.0,no,Public,Always,more than 2,134.0,Obesity_Type_III
+1535,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.61,3.0,no,yes,,0.0,no,Public,Always,less than 1,102.0,Obesity_Type_III
+1536,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.6,3.0,no,yes,,2.0,no,Public,Always,less than 1,102.0,Obesity_Type_III
+1537,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.61,3.0,no,yes,,2.0,no,Public,Always,less than 1,103.0,Obesity_Type_III
+1538,26.0,Sometimes,yes,up to 5,,Female,1.62,3.0,no,yes,,1.0,no,Public,Always,less than 1,103.0,Obesity_Type_III
+1539,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.62,3.0,,yes,,3.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
+1540,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.79,3.0,no,yes,1 to 2,1.0,no,Public,Always,more than 2,138.0,Obesity_Type_III
+1541,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.77,3.0,no,yes,3 to 4,3.0,no,Public,Always,more than 2,138.0,Obesity_Type_III
+1542,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.79,3.0,no,yes,1 to 2,1.0,no,Public,Always,more than 2,138.0,Obesity_Type_III
+1543,18.0,Sometimes,yes,up to 5,Sometimes,Female,1.81,3.0,no,yes,3 to 4,1.0,no,Public,Always,1 to 2,,Obesity_Type_III
+1544,20.0,Sometimes,yes,up to 5,,Female,1.81,3.0,no,yes,1 to 2,0.0,no,Public,Always,1 to 2,153.0,Obesity_Type_III
+1545,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.8,3.0,no,yes,1 to 2,3.0,no,Public,Always,1 to 2,152.0,Obesity_Type_III
+1546,26.0,Sometimes,yes,up to 2,,Female,1.63,3.0,no,yes,,0.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
+1547,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,3.0,no,yes,,0.0,no,Public,,more than 2,112.0,Obesity_Type_III
+1548,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,3.0,no,yes,,3.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
+1549,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,3.0,no,yes,,2.0,no,Public,Always,more than 2,105.0,Obesity_Type_III
+1550,,Sometimes,yes,up to 5,Sometimes,Female,1.64,3.0,no,yes,,2.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
+1551,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.61,3.0,no,yes,,0.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
+1552,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.63,3.0,no,yes,,2.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
+1553,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.63,3.0,no,yes,,1.0,no,Public,Always,more than 2,105.0,Obesity_Type_III
+1554,25.0,Sometimes,yes,up to 5,Sometimes,Female,1.68,3.0,no,yes,,2.0,no,Public,Always,less than 1,105.0,Obesity_Type_III
+1555,25.0,Sometimes,yes,up to 5,Sometimes,Female,1.69,3.0,no,yes,,2.0,no,,Always,,105.0,Obesity_Type_III
+1556,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.66,3.0,no,yes,,3.0,no,Public,Always,1 to 2,111.0,Obesity_Type_III
+1557,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.68,3.0,no,yes,,3.0,no,Public,Always,less than 1,111.0,Obesity_Type_III
+1558,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,3.0,no,yes,,2.0,no,Public,Always,1 to 2,110.0,Obesity_Type_III
+1559,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.67,3.0,no,yes,1 to 2,3.0,no,Public,Always,less than 1,126.0,Obesity_Type_III
+1560,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.76,3.0,no,yes,1 to 2,2.0,no,Public,Always,1 to 2,134.0,Obesity_Type_III
+1561,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.72,3.0,no,yes,3 to 4,3.0,no,Public,Always,1 to 2,132.0,Obesity_Type_III
+1562,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,3.0,no,yes,,1.0,no,Public,Always,1 to 2,110.0,Obesity_Type_III
+1563,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,3.0,no,yes,,3.0,no,Public,Always,more than 2,110.0,Obesity_Type_III
+1564,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,3.0,no,yes,,0.0,no,Public,Always,more than 2,111.0,Obesity_Type_III
+1565,26.0,Sometimes,yes,up to 2,Sometimes,,1.63,3.0,no,yes,,0.0,no,Public,Always,1 to 2,111.0,Obesity_Type_III
+1566,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.62,3.0,no,yes,,3.0,no,Public,Always,1 to 2,110.0,Obesity_Type_III
+1567,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.59,3.0,no,yes,,2.0,no,Public,Always,1 to 2,110.0,Obesity_Type_III
+1568,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.73,3.0,no,yes,3 to 4,0.0,no,Public,Always,1 to 2,132.0,Obesity_Type_III
+1569,22.0,Sometimes,,up to 5,Sometimes,Female,1.72,3.0,no,yes,3 to 4,2.0,no,Public,Always,1 to 2,132.0,Obesity_Type_III
+1570,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.7,3.0,no,yes,3 to 4,2.0,no,Public,Always,1 to 2,133.0,Obesity_Type_III
+1571,24.0,Sometimes,yes,up to 5,Sometimes,Female,1.7,3.0,no,yes,,2.0,no,Public,Always,more than 2,114.0,Obesity_Type_III
+1572,25.0,Sometimes,yes,up to 2,Sometimes,Female,1.67,3.0,no,yes,,0.0,no,Public,Always,more than 2,113.0,Obesity_Type_III
+1573,19.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,1 to 2,0.0,no,Public,Always,1 to 2,129.0,Obesity_Type_III
+1574,18.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,3 to 4,0.0,no,Public,Always,1 to 2,127.0,Obesity_Type_III
+1575,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,1 to 2,1.0,no,Public,Always,1 to 2,128.0,Obesity_Type_III
+1576,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.72,3.0,no,yes,1 to 2,0.0,no,Public,Always,1 to 2,129.0,Obesity_Type_III
+1577,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,1 to 2,3.0,no,Public,Always,1 to 2,147.0,Obesity_Type_III
+1578,20.0,Sometimes,yes,up to 5,Sometimes,Female,1.82,3.0,no,yes,3 to 4,3.0,no,Public,Always,more than 2,143.0,Obesity_Type_III
+1579,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,3 to 4,0.0,no,Public,Always,1 to 2,150.0,Obesity_Type_III
+1580,18.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,3 to 4,1.0,no,Public,Always,1 to 2,133.0,Obesity_Type_III
+1581,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,1 to 2,0.0,no,Public,Always,more than 2,134.0,Obesity_Type_III
+1582,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,1 to 2,3.0,no,Public,Always,more than 2,134.0,Obesity_Type_III
+1583,24.0,Sometimes,yes,up to 2,Sometimes,Female,,3.0,no,yes,,1.0,no,Public,Always,more than 2,113.0,Obesity_Type_III
+1584,25.0,Sometimes,yes,up to 2,Sometimes,Female,1.67,3.0,no,yes,,0.0,no,Public,Always,more than 2,113.0,Obesity_Type_III
+1585,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.67,3.0,no,yes,,1.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
+1586,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,3.0,no,yes,,0.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
+1587,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,3.0,no,yes,,3.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
+1588,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,3.0,no,yes,,2.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
+1589,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.65,3.0,no,yes,,3.0,no,Public,Always,more than 2,112.0,Obesity_Type_III
+1590,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.64,3.0,no,yes,,0.0,no,Public,Always,more than 2,,Obesity_Type_III
+1591,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.63,3.0,no,yes,,1.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
+1592,26.0,Sometimes,yes,up to 5,Sometimes,Female,1.63,3.0,no,yes,,1.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
+1593,26.0,Sometimes,yes,up to 5,,Female,1.61,3.0,no,yes,,1.0,no,Public,Always,1 to 2,105.0,Obesity_Type_III
+1594,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,3.0,no,yes,,3.0,no,Public,Always,1 to 2,107.0,Obesity_Type_III
+1595,26.0,Sometimes,yes,up to 2,Sometimes,Female,1.63,3.0,no,yes,,2.0,no,Public,Always,1 to 2,108.0,Obesity_Type_III
+1596,21.0,Sometimes,yes,up to 5,Sometimes,Female,1.72,3.0,no,yes,3 to 4,2.0,no,Public,,1 to 2,133.0,Obesity_Type_III
+1597,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.73,3.0,no,yes,3 to 4,2.0,no,Public,Always,1 to 2,133.0,Obesity_Type_III
+1598,21.0,Sometimes,,up to 5,Sometimes,Female,1.73,3.0,no,yes,3 to 4,1.0,no,Public,Always,1 to 2,131.0,Obesity_Type_III
+1599,22.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,1 to 2,0.0,no,,Always,1 to 2,134.0,Obesity_Type_III
+1600,23.0,Sometimes,yes,up to 5,Sometimes,Female,1.75,3.0,no,yes,1 to 2,0.0,no,Public,Always,1 to 2,134.0,Obesity_Type_III
+1601,24.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,1 to 2,0.0,no,Public,Always,more than 2,133.0,Obesity_Type_III
+1602,24.0,Sometimes,yes,up to 5,Sometimes,Female,1.74,3.0,no,yes,1 to 2,0.0,no,Public,Always,more than 2,133.0,Obesity_Type_III

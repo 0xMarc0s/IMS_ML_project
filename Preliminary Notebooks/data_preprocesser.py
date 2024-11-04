@@ -6,6 +6,7 @@ import numpy as np
 from sklearn.linear_model import LinearRegression
 from sklearn.linear_model import LogisticRegression
 from sklearn.neighbors import KNeighborsClassifier
+from sklearn.tree import DecisionTreeClassifier
 
 
 def classify_bmi_comprehensive(row):
@@ -151,15 +152,15 @@ class preprocesser():
                 
                 # Transform training data
                 transformed_train = target_encoder.transform(encoded_train[[target]])
-                encoded_train[f"{target}_encoded"] = transformed_train
+                encoded_train[f"{target}"] = transformed_train
                 
                 # Transform test data
                 transformed_test = target_encoder.transform(encoded_test[[target]])
-                encoded_test[f"{target}_encoded"] = transformed_test
+                encoded_test[f"{target}"] = transformed_test
                 
                 # Drop original columns
-                encoded_train.drop(columns=[target], inplace=True)
-                encoded_test.drop(columns=[target], inplace=True)
+                # encoded_train.drop(columns=[target], inplace=True)
+                # encoded_test.drop(columns=[target], inplace=True)
         
         return encoded_train, encoded_test
 
@@ -200,14 +201,14 @@ class preprocesser():
         """
         
         # categorical to ordinal encodder
-        encoder = OrdinalEncoder(encoded_missing_value=np.nan)
-        for col in data_train.columns:
-            if data_train[col].dtype == 'object':
-                data_train[col] = encoder.fit_transform(data_train[[col]])
-                data_val[col] = encoder.transform(data_val[[col]])
+        # encoder = OrdinalEncoder(encoded_missing_value=np.nan)
+        # for col in data_train.columns:
+        #    if data_train[col].dtype == 'object':
+        #        data_train[col] = encoder.fit_transform(data_train[[col]])
+        #        data_val[col] = encoder.transform(data_val[[col]])
         
         # Initialize and fit the KNN imputer
-        knn_imputer = KNNImputer(n_neighbors=5)
+        knn_imputer = KNNImputer(n_neighbors=4)
         data_train[columns] = knn_imputer.fit_transform(data_train[columns])
         data_val[columns] = knn_imputer.transform(data_val[columns])
         
@@ -237,6 +238,9 @@ class preprocesser():
         elif estimator == "KNNclassifier":
             m_estimator = KNeighborsClassifier()
     
+        elif estimator == "DecisionTreeC":
+            m_estimator = DecisionTreeClassifier()
+
         elif estimator == "none":
             m_estimator = None
 
