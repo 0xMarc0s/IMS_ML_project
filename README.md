@@ -1,5 +1,5 @@
 # General backlog
-- Generally similar to configuration 12, except I'm adding a `life` indicator which sums up every encoded categorical variable which would represent a characteristic of one's lifestyle. Makes sense as they are ordinal. Life sums every encoded variable in two ways: if it is "bad", then subtract. If "good", sum.
+- Generally similar to configuration 12, except I'm adding a `life` indicator which sums up every encoded categorical variable which would represent a characteristic of one's lifestyle. Makes sense as they are ordinal. Life sums every encoded variable in a positive way, as modifying it with penalties penalizes the performance.
 
 # Notes for Feature Selection:
 - According to RFE the following are selected:
@@ -17,7 +17,7 @@
     - life	0.033230
     - meals_perday	0.031686
     - eat_between_meals	0.030832
-    
+
 - Spearman rank correlation to determine independence:
     - alcohol_freq is IMPORTANT for prediction (Spearman's correlation = 0.13, p = 0.0000)
     - caloric_freq is NOT an important predictor (Spearman's correlation = 0.05, p = 0.0674)
